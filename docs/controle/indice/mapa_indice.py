@@ -250,6 +250,7 @@ SECOES = [
             "M": [
                 ("TAPP DIMPLANC - Modelo Analise Preliminar", "Modelo de TAPP — termo de análise preliminar do planejamento"),
                 ("TAAP - TERMO", "Modelo de TAAP — termo de análise preliminar do planejamento"),
+                ("TAPPC ASSGERLICT - Checklist", "Modelo de TAPPC — checklist da ASSGERLICT (revisado pela assessoria jurídica, 2025)"),
                 ("TAPP_DIMPLANC_000_202X", "Modelo de documento TAPP (estrutura)"),
                 ("TAPP-D - Diagnostico", "TAPP-D — diagnóstico e matriz de notas"),
                 ("TAPP-D - Nota Tecnica de Revisao", "TAPP-D — nota técnica de revisão da minuta"),
@@ -298,6 +299,7 @@ SECOES = [
                 ("modelo-de-edital-concorrencia-tecnica-e-preco", "AGU — edital de concorrência (técnica e preço)"),
                 ("modelo-de-edital-pregao-e-concorrencia-tic", "AGU — edital de pregão/concorrência para TIC"),
                 ("Modelo Proposta de Precos", "MPPI — modelo de proposta de preços"),
+                ("Folha de Rosto - Edital Pregao", "MPPI — folha de rosto do edital de pregão eletrônico (ASSGERLICT, 2025)"),
                 ("Roteiro_Falas_Sessao_Publica", "Roteiro de falas da sessão pública do pregão eletrônico"),
                 ("Glossario de Mensagens", "Glossário de mensagens da sessão pública do pregão"),
                 ("CARTILHA-DE-MENSAGENS-PADRONIZADAS", "SEAD-PI — cartilha de mensagens padronizadas para o agente de contratação"),

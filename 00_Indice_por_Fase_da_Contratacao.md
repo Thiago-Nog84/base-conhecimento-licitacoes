@@ -21,7 +21,7 @@ tags: [indice, fases, navegacao]
 - Cada descrição foi conferida no **corpo** do arquivo, não no front-matter, que tem erros conhecidos (Apêndice A).
 - Arquivos com conteúdo trocado, duplicados ou fora do escopo ficaram de fora de propósito (Apêndices A e C).
 
-**Números:** 455 arquivos ligados (5 só locais), em 17 seções por fase, 5 temas transversais e 8 tipos de objeto.
+**Números:** 457 arquivos ligados (5 só locais), em 17 seções por fase, 5 temas transversais e 8 tipos de objeto.
 
 ## Mapa rápido
 
@@ -34,8 +34,8 @@ tags: [indice, fases, navegacao]
 | [4. Gestão de riscos](#fase-4) | Lei 14.133, art. 18, X | 8 |
 | [5. Pesquisa de preços e estimativa da despesa](#fase-5) | Lei 14.133, art. 23 | 20 |
 | [6. Termo de Referência e Projeto Básico](#fase-6) | Lei 14.133, art. 6º, XXIII e XXV | 12 |
-| [7. Revisão do planejamento e análise jurídica](#fase-7) | Lei 14.133, art. 53 (controle prévio de legalidade) | 32 |
-| [8. Fase externa: edital, publicidade e sessão](#fase-8) | Lei 14.133, art. 17 (fases) | 21 |
+| [7. Revisão do planejamento e análise jurídica](#fase-7) | Lei 14.133, art. 53 (controle prévio de legalidade) | 33 |
+| [8. Fase externa: edital, publicidade e sessão](#fase-8) | Lei 14.133, art. 17 (fases) | 22 |
 | [9. Julgamento das propostas e habilitação](#fase-9) | Lei 14.133, arts. 59-61 (julgamento) | 11 |
 | [10. Recursos, adjudicação e homologação](#fase-10) | Lei 14.133, arts. 164-168 (impugnações e recursos) | 3 |
 | [11. Contratação direta (dispensa e inexigibilidade)](#fase-11) | Lei 14.133, arts. 72-75 | 58 |
@@ -307,6 +307,7 @@ Mais: [Temas transversais](#temas-transversais) · [Por tipo de objeto](#por-tip
 
 - [Modelo de TAPP — termo de análise preliminar do planejamento](<03_Modelos_e_Minutas/Modelos_MPPI_CLC/TAPP DIMPLANC - Modelo Analise Preliminar Planejamento.md>)
 - [Modelo de TAAP — termo de análise preliminar do planejamento](<03_Modelos_e_Minutas/Modelos_MPPI_CLC/TAAP - TERMO DE ANÁLISE PRELIMINAR DO PLANEJAMENTO DA CONTRATAÇÃO.md>)
+- [Modelo de TAPPC — checklist da ASSGERLICT (revisado pela assessoria jurídica, 2025)](<03_Modelos_e_Minutas/Modelos_MPPI_CLC/TAPPC ASSGERLICT - Checklist Analise Preliminar Planejamento (revisado 2025).md>)
 - [Modelo de documento TAPP (estrutura)](<03_Modelos_e_Minutas/Modelos_MPPI_CLC/TAPP_DIMPLANC_000_202X-X_Documento_modelo.md>)
 - [TAPP-D — diagnóstico e matriz de notas](<03_Modelos_e_Minutas/Modelos_MPPI_CLC/TAPP-D - Diagnostico e Matriz de Notas (02.09.2026).md>)
 - [TAPP-D — nota técnica de revisão da minuta](<03_Modelos_e_Minutas/Modelos_MPPI_CLC/TAPP-D - Nota Tecnica de Revisao da Minuta (02.09.2026).md>)
@@ -356,6 +357,7 @@ Mais: [Temas transversais](#temas-transversais) · [Por tipo de objeto](#por-tip
 - [AGU — edital de concorrência (técnica e preço)](<03_Modelos_e_Minutas/Modelos_AGU_14133/Pregão e Concorrência/Editais e Atas - Todos os Objetos/modelo-de-edital-concorrencia-tecnica-e-preco-lei-no-14-133-abr-26.md>)
 - [AGU — edital de pregão/concorrência para TIC](<03_Modelos_e_Minutas/Modelos_AGU_14133/Bens e serviços de TIC/modelo-de-edital-pregao-e-concorrencia-tic-lei-no-14-133-ago-25.md>)
 - [MPPI — modelo de proposta de preços](<03_Modelos_e_Minutas/Modelos_MPPI_CLC/Modelo Proposta de Precos.md>)
+- [MPPI — folha de rosto do edital de pregão eletrônico (ASSGERLICT, 2025)](<03_Modelos_e_Minutas/Modelos_MPPI_CLC/Folha de Rosto - Edital Pregao Eletronico.md>)
 - [Roteiro de falas da sessão pública do pregão eletrônico](<03_Modelos_e_Minutas/Modelos_MPPI_CLC/Roteiro_Falas_Sessao_Publica_Pregao_Eletronico.md>)
 - [Glossário de mensagens da sessão pública do pregão](<03_Modelos_e_Minutas/Modelos_MPPI_CLC/Glossario de Mensagens - Sessao Publica de Pregao.md>)
 - [SEAD-PI — cartilha de mensagens padronizadas para o agente de contratação](<03_Modelos_e_Minutas/Modelos_SEAD_PI/CARTILHA-DE-MENSAGENS-PADRONIZADAS-PARA-AGENTE-DE-CONTRATACAO.md>)
