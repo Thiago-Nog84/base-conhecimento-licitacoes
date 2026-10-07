@@ -1,0 +1,58 @@
+META = {
+    'Resolução TCE-PI 041.2023 - ETP e TR (compilada com Res 02.2026).pdf': dict(
+        tipo='Resolução', numero='41', ano=2023, orgao='TCE-PI', ambito='TCE-PI (interno)',
+        assunto='Elaboração de Estudos Técnicos Preliminares (ETP) e Termos de Referência (TR) para aquisição de bens e contratação de serviços e obras no TCE-PI',
+        status='Vigente (texto compilado com a Resolução TCE-PI nº 02/2026)',
+        tags=['tce-pi', 'resolucao-41-2023', 'etp', 'termo-de-referencia', 'planejamento-da-contratacao', 'lei-14133'],
+        titulo='Resolução TCE-PI nº 41/2023 — ETP e Termo de Referência (compilada com a Res. 02/2026)',
+        ementa='Dispõe sobre a elaboração de estudos técnicos preliminares (ETP) e de termos de referência (TR) para a aquisição de bens e a contratação de serviços e obras no âmbito do TCE-PI, com base no art. 6º, XX e XXIII, da Lei nº 14.133/2021. Texto compilado com a Resolução nº 02/2026, que incluiu no art. 19 a cota de até 25% para ME/EPP em bens divisíveis. Norma interna do TCE-PI, útil como modelo de boas práticas para ETP e TR.'),
+    'Resolução TCE-PI 002.2026 - Altera Res 41.2023 (ETP e TR).pdf': dict(
+        tipo='Resolução', numero='02', ano=2026, orgao='TCE-PI', ambito='TCE-PI (interno)',
+        assunto='Altera o art. 19 da Resolução TCE-PI nº 41/2023 — cota de até 25% para ME/EPP em bens de natureza divisível',
+        status='Vigente',
+        tags=['tce-pi', 'resolucao-02-2026', 'me-epp', 'cota-reservada', 'lc-123', 'termo-de-referencia'],
+        titulo='Resolução TCE-PI nº 02/2026 — Altera a Res. 41/2023 (cota ME/EPP no Termo de Referência)',
+        ementa='Acrescenta os §§ 5º e 6º ao art. 19 da Resolução TCE-PI nº 41/2023: no TR de licitações para aquisição de bens de natureza divisível, deve-se estabelecer cota de até 25% do objeto para ME/EPP (art. 48, III, da LC nº 123/2006), exceto quando o item ou lote tiver valor estimado de até R$ 80.000,00, hipótese em que a licitação é exclusiva para ME/EPP (art. 48, I). Publicada no DO TCE/PI de 19/02/2026.'),
+    'Acordao TCE-PI 394-A.2026 - Pleno - Consulta MPPI - Prorrogacao e Renovacao de Quantitativos de ARP.pdf': dict(
+        tipo='Acórdão (Consulta)', numero='394-A', ano=2026, orgao='TCE-PI', ambito='TCE-PI / Jurisdicionados — consulente: MPPI',
+        assunto='Ata de registro de preços: prorrogação da vigência, renovação dos quantitativos e limites de adesão (arts. 84 e 86 da Lei nº 14.133/2021)',
+        status='Vigente',
+        tags=['tce-pi', 'acordao-394-a-2026', 'consulta', 'mppi', 'srp', 'ata-de-registro-de-precos', 'prorrogacao', 'renovacao-de-quantitativos', 'adesao', 'carona', 'lei-14133-art-84', 'lei-14133-art-86'],
+        titulo='Acórdão TCE-PI nº 394-A/2026 — Pleno — Consulta do MPPI sobre prorrogação e renovação de quantitativos de ARP',
+        ementa='Consulta formulada pelo MPPI (Processo TC/007773/2026; Rel. Cons. Abelardo Pio Vilanova e Silva; Pleno Virtual de 10 a 14/08/2026). Respostas: (1) a prorrogação da ARP pode vir acompanhada da renovação dos quantitativos, mas não automaticamente, exigindo previsão no planejamento, preço comprovadamente vantajoso, previsão expressa no edital e na ata e termo aditivo celebrado na vigência original, consignando o quantitativo renovado; (2) a renovação depende de previsão expressa e fundamentada no ETP e no TR, com cláusulas claras no edital e na ata; (3) sem essa previsão, não é possível renovar, e a prorrogação limita-se ao saldo remanescente; (4) os limites de adesão do art. 86 incidem sobre os quantitativos originalmente registrados, e saldos ou quantitativos renovados servem só ao gerenciador e aos participantes; (5) exauridos os limites de adesão na vigência originária, a prorrogação, mesmo com renovação, não autoriza novas adesões (preclusão quantitativa); (6) prejudicado; (7) a Administração deve absorver o entendimento e readequar procedimentos em curso e o planejamento das próximas prorrogações e licitações (efeitos prospectivos).'),
+    'Federal - Parecer Referencial 00003.2025 CONJUR-EB-CGU-AGU - Inexigibilidade para Cursos e Pos-Graduacao.pdf': dict(
+        tipo='Parecer Referencial', numero='00003/2025/CONJUR-EB/CGU/AGU', ano=2025, orgao='AGU — CONJUR-EB', ambito='Federal (Exército Brasileiro) — referência',
+        assunto='Inexigibilidade de licitação (art. 74, III, "f", da Lei nº 14.133/2021) para inscrição em cursos abertos ou fechados, seminários e pós-graduação lato e stricto sensu',
+        status='Vigente até 09/03/2027 (validade da MJR: 10/03/2025 a 09/03/2027)',
+        tags=['agu', 'parecer-referencial', 'manifestacao-juridica-referencial', 'inexigibilidade', 'capacitacao', 'cursos', 'pos-graduacao', 'lei-14133-art-74-iii-f'],
+        titulo='Parecer Referencial nº 00003/2025/CONJUR-EB/CGU/AGU — Inexigibilidade para cursos, seminários e pós-graduação',
+        ementa='Manifestação jurídica referencial (ON AGU nº 55/2014 e Portaria Normativa CGU nº 05/2022), NUP 00687.000220/2023-66. Admite a contratação direta por inexigibilidade, com fundamento no art. 74, III, "f", da Lei nº 14.133/2021, de instituições privadas para capacitação de militares e servidores em cursos abertos ou fechados, seminários e programas de pós-graduação lato e stricto sensu (especializações, aperfeiçoamentos, MBA, mestrados, doutorados) realizados no território nacional, desde que atendidos os requisitos e formalidades nela descritos. Válida de 10/03/2025 a 09/03/2027. Referência útil para instruir processos de capacitação no MPPI.'),
+    'Resolução TCE-PI 008.2026 - Sistema de Integridade do TCE-PI.pdf': dict(
+        tipo='Resolução', numero='08', ano=2026, orgao='TCE-PI', ambito='TCE-PI, contratados e jurisdicionados',
+        assunto='Implantação do Sistema de Integridade do Tribunal de Contas do Estado do Piauí',
+        status='Vigente',
+        tags=['tce-pi', 'resolucao-08-2026', 'integridade', 'compliance', 'anticorrupcao', 'lei-12846', 'governanca'],
+        titulo='Resolução TCE-PI nº 08/2026 — Sistema de Integridade do TCE-PI',
+        ementa='Dispõe sobre a implantação do Sistema de Integridade do TCE-PI, voltado à prevenção, detecção e resposta a fraudes, corrupção e desvios éticos e ao fortalecimento da cultura de integridade. Fundamenta-se na Lei nº 12.846/2013 (Decreto nº 11.129/2022), na Lei nº 14.133/2021 (Decreto nº 12.304/2024), na Resolução Conjunta ATRICON/IRB nº 1/2022, no Decreto nº 11.529/2023 e nas normas ISO 37001, ISO 37301 e COSO ERM. Define conceitos (integridade pública, sistema de integridade), objetivos e estrutura de governança da integridade. Conforme o parágrafo único do art. 1º, aplica-se a Conselheiros, Conselheiros Substitutos e membros do MPC; a servidores, estagiários e colaboradores; a contratados, fornecedores e demais pessoas com vínculo com o TCE-PI; a jurisdicionados e entidades fiscalizadas; e aos demais órgãos da administração pública direta ou indireta.'),
+    'Federal - Lei 4320.1964 - Normas Gerais de Direito Financeiro.pdf': dict(
+        tipo='Lei', numero='4.320', ano=1964, orgao='União', ambito='Nacional',
+        assunto='Normas gerais de direito financeiro para elaboração e controle dos orçamentos e balanços da União, dos Estados, dos Municípios e do DF',
+        status='Vigente',
+        tags=['lei-4320', 'direito-financeiro', 'orcamento', 'empenho', 'liquidacao', 'pagamento', 'suprimento-de-fundos', 'adiantamento', 'restos-a-pagar'],
+        titulo='Lei nº 4.320/1964 — Normas Gerais de Direito Financeiro',
+        ementa='Estatui normas gerais de direito financeiro para a elaboração e o controle dos orçamentos e balanços da União, dos Estados, dos Municípios e do DF. Base legal das fases da despesa (empenho, liquidação e pagamento), dos restos a pagar e do regime de adiantamento ou suprimento de fundos (arts. 65, 68 e 69). Versão do Planalto capturada em 09/02/2026 (texto compilado).'),
+    'Federal - Lei Complementar 101.2000 - Lei de Responsabilidade Fiscal.pdf': dict(
+        tipo='Lei Complementar', numero='101', ano=2000, orgao='União', ambito='Nacional',
+        assunto='Lei de Responsabilidade Fiscal — normas de finanças públicas voltadas para a responsabilidade na gestão fiscal',
+        status='Vigente',
+        tags=['lc-101', 'lrf', 'responsabilidade-fiscal', 'geracao-de-despesa', 'art-16', 'art-17', 'despesa-com-pessoal', 'restos-a-pagar'],
+        titulo='Lei Complementar nº 101/2000 — Lei de Responsabilidade Fiscal (LRF)',
+        ementa='Estabelece normas de finanças públicas voltadas para a responsabilidade na gestão fiscal, aplicáveis à União, aos Estados, ao DF e aos Municípios, incluindo o Ministério Público. Relevante para contratações: requisitos para geração de despesa (arts. 15 a 17: estimativa de impacto orçamentário-financeiro e declaração do ordenador de despesa), limites de despesa com pessoal e vedações de fim de mandato (art. 42). Versão do Planalto capturada em 09/02/2026.'),
+    'Ato PGJ 0823.2018 - Atribuicoes do Diretor de Sede (com alteracoes).pdf': dict(
+        tipo='Ato PGJ', numero='823', ano=2018, orgao='MPPI', ambito='MPPI',
+        assunto='Regulamenta as atribuições do Diretor de Sede de órgãos de execução do Ministério Público do Estado do Piauí',
+        status='Vigente (versão com as alterações dos Atos PGJ nº 940/2019 e 1004/2020)',
+        tags=['mppi', 'ato-pgj-823-2018', 'diretor-de-sede', 'promotorias-de-justica', 'fiscalizacao-de-terceirizados', 'patrimonio', 'material-de-expediente'],
+        titulo='Ato PGJ nº 823/2018 — Atribuições do Diretor de Sede (com alterações)',
+        ementa='Regulamenta as atribuições do Diretor de Sede de órgãos de execução do MPPI, escolhido dentre os Promotores de Justiça da comarca por livre nomeação do PGJ, com mandato de até um ano e recondução permitida. Em Teresina há dois Diretores, um para a Sede Leste e outro para a Sede do GAECO. Entre as competências do art. 3º: orientar e fiscalizar os serviços terceirizados, comunicando descumprimentos ao fiscal do contrato; controlar o acervo patrimonial da sede; solicitar e administrar o material de expediente; fiscalizar limpeza, manutenção e segurança do prédio; encaminhar à PGJ as demandas de pessoal, estrutura predial e equipamentos. Versão com as alterações dos Atos PGJ nº 940/2019 e 1004/2020.'),
+}

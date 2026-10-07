@@ -1,0 +1,90 @@
+---
+arquivo_original: "Segunda_C_mara_Presencial_Segunda_C_mara___Sess_o_de_Julgamento_Presencial_n__19.pdf"
+hash_pdf_md5: b7c160a59f5ec0f6f15f6d835767051c
+paginas: 2
+metodo: "texto (pymupdf4llm)"
+convertido_em: 2026-10-03T16:03:27
+fonte: Base de Conhecimento CLC
+---
+
+<!-- pagina 1 -->
+# Informativo Segunda Câmara 
+
+**SESSÃO ORDINÁRIA PRESENCIAL DA SEGUNDA CÂMARA 05/11/2025 (QUARTA-FEIRA) - 09:00H PAUTA DE JULGAMENTO - Nº: 019/2025** 
+
+**INFORMATIVO DE RESULTADOS (*)** 
+
+**CONSª. WALTÂNIA LEAL QTDE. PROCESSOS - 01 (UM)** 
+
+APRECIAÇÃO DA LEGALIDADE DE ATO - INATIVAÇÃO POR  APOSENTADORIA (CONCESSÃO) 
+
+**TC/011475/2025** 
+
+**APOSENTADORIA.** 
+
+Interessado(s): Dinorá Araújo Oliveira Ferreira. Unidade Gestora: FUNDACAO PIAUI PREVIDENCIA **JULGAMENTO: REGISTRO** 
+
+**CONS. ABELARDO VILANOVA QTDE. PROCESSOS - 01 (UM)** 
+
+CONTAS - TOMADA DE CONTAS ESPECIAL 
+
+**TC/008914/2023** 
+
+**TOMADA DE CONTAS ESPECIAL NA P. M. DE BAIXA GRANDE DO RIBEIRO. (EXERCÍCIO DE 2023)** 
+
+Interessado(s): José Luis Sousa (Prefeito) e outros. Unidade Gestora: P. M. DE BAIXA GRANDE DO RIBEIRO INTERESSADO: JOSÉ LUIS SOUSA - PREFEITURA (PREFEITO(A)) Sub-unidade Gestora: P. M. DE BAIXA GRANDE DO RIBEIRO 
+
+Advogado(s): Bruno Ferreira Correia Lima (OAB/PI nº 3.767) e outros (peça 16.2) 
+
+INTERESSADO: JÚLIO CÉSAR MOTA DE NEGREIROS - PREFEITURA (CONTRATADO) 
+
+Sub-unidade Gestora: P. M. DE BAIXA GRANDE DO RIBEIRO 
+
+Advogado(s): Bruno Ferreira Correia Lima (OAB/PI nº 3.767) e outros (peça 49.3) 
+
+INTERESSADO: SOLANJO BISPO DE SOUSA – EPP - EMPRESA (EMPRESACONTRATADA) 
+
+Sub-unidade Gestora: P. M. DE BAIXA GRANDE DO RIBEIRO 
+
+Advogado(s): Vitor Tabatinga do Rêgo Lopes (OAB/PI nº 6.989) e outro (peça 56.2) 
+
+INTERESSADO: SOLANJO BISPO DE SOUSA - EMPRESA (REPRESENTANTE LEGAL) 
+
+Sub-unidade Gestora: P. M. DE BAIXA GRANDE DO RIBEIRO 
+
+Advogado(s): Vitor Tabatinga do Rêgo Lopes (OAB/PI nº 6.989) e outro (peça 56.2) 
+
+INTERESSADO: JOSÉ NILSON DE SOUSA ROCHA - CONTROLADORIA (CONTROLADOR(A)) Sub-unidade Gestora: P. M. DE BAIXA GRANDE DO RIBEIRO 
+
+Advogado(s): Bruno Ferreira Correia Lima (OAB/PI nº 3.767) e outros (peça 49.2) 
+
+INTERESSADO: REINALDO BOZON PINHEIRO - SECRETARIA MUNICIPAL DE FINANÇAS (SECRETÁRIO(A)) 
+
+Sub-unidade Gestora: P. M. DE BAIXA GRANDE DO RIBEIRO 
+
+Advogado(s): Bruno Ferreira Correia Lima (OAB/PI nº 3.767) e outros (sem procuração) **JULGAMENTO: IRREGULARIDADE, APLICAÇÃO DE MULTA, IMPUTAÇÃO DE DÉBITO, INABILITAÇÃO PARA EXERCÍCIO DE CARGO EM COMISSÃO OU FUNÇÃO DE CONFIANÇA, PROIBIÇÃO DE CONTRATAR COM O PODER PÚBLICO ESTADUAL E MUNICIPAL.**
+
+<!-- pagina 2 -->
+**CONS. SUBST. DELANO CÂMARA** 
+
+### **QTDE. PROCESSOS - 02 (DOIS)** 
+
+APRECIAÇÃO DA LEGALIDADE DE ATO - INATIVAÇÃO POR APOSENTADORIA (CONCESSÃO) 
+
+## **TC/011529/2025** 
+
+**APOSENTADORIA.** 
+
+Interessado(s): Olindina Guimarães Fernandes. Unidade Gestora: FUNDACAO PIAUI PREVIDENCIA **JULGAMENTO: REGISTRO.** 
+
+APRECIAÇÃO DA LEGALIDADE DE ATO - PENSÃO POR MORTE (CONCESSÃO) 
+
+## **TC/012014/2025** 
+
+**PENSÃO POR MORTE.** 
+
+Interessado(s): Antônio Elias dos Santos e Silva. Unidade Gestora: FUNDACAO PIAUI PREVIDENCIA **JULGAMENTO: REGISTRO.** 
+
+## **TOTAL DE PROCESSOS - 04 (QUATRO)** 
+
+**(*) CONTEÚDO MERAMENTE INFORMATIVO, NÃO SUBSTITUTIVO DA PUBLICAÇÃO NO DIÁRIO OFICIAL ELETRÔNICO DO TCE/PI.**

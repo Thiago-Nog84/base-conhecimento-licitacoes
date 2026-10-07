@@ -1,0 +1,27 @@
+# PDFs ficam apenas localmente (anexos do SEI); o repositorio versiona somente os .md
+*.pdf
+*.PDF
+# Originais Word/Excel tambem ficam so no OneDrive (o .md ao lado e o que se versiona)
+*.docx
+*.DOCX
+*.xlsx
+*.XLSX
+*.doc
+*.DOC
+Thumbs.db
+.DS_Store
+
+# Obras licenciadas: o .md fica so no clone local, fora do GitHub (decisao do usuario)
+05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Livro - ELABORA*CHATGPT*.md
+# Obras comerciais com reproducao proibida (lotes 05 e 06): mesma regra
+05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Livro - NLLC Esquematizada.md
+05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manual de Contrata*TIC sob a*.md
+05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Storytelling com Dados*.md
+05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Z*nite - Apresenta*Curso Habilita*.md
+# Lote 09 (etapa 14): material do curso comercial Zenite (Imersao em Contratacoes Diretas)
+05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Curso_Imersao_Contratacoes_Diretas/*.md
+# Lote 09: obras comerciais ou com todos os direitos reservados (MPF 2a ed., Negocios Publicos, Sollicita)
+05_Doutrina_e_Biblioteca/Suprimento_de_Fundos/34_suprimento_de_fundos_2ed.md
+05_Doutrina_e_Biblioteca/Suprimento_de_Fundos/32-Custos de uma licita*.md
+05_Doutrina_e_Biblioteca/Suprimento_de_Fundos/Voc* sabe quanto custa uma licita*.md
+05_Doutrina_e_Biblioteca/Suprimento_de_Fundos/QUANTO CUSTA UMA LICITA*.md

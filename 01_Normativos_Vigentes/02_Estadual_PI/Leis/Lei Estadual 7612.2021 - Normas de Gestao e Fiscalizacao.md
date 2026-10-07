@@ -1,0 +1,158 @@
+---
+tipo: "Lei"
+numero: "7612"
+ano: 2021
+orgao: "Estado do Piauí"
+ambito: "Estado do Piauí"
+assunto: "Normas de fiscalização e governança pública estadual"
+status: "Vigente"
+tags: ['lei-estadual', 'fiscalizacao', 'governanca', 'estado-do-piaui']
+---
+
+# Lei Estadual nº 7.612/2021
+
+> **Ementa:** Estabelece diretrizes de controle, fiscalização e acompanhamento de contratos estaduais.
+
+
+LEI Nº 7.612, DE 27 DE OUTUBRO DE 2021
+
+Dispõe sobre a gestão de bens imóveis do domínio
+do Estado do Piauí.
+
+O GOVERNADOR DO ESTADO DO PIAUÍ, Faço saber que a Assembleia Legislativa
+decreta e eu sanciono a seguinte Lei:
+#### Art. 1º Fica o Poder Executivo autorizado, por intermédio da Secretaria de Administração
+e Previdência do Estado do Piauí, a executar ações de identificação, de demarcação, de
+cadastramento, de registro e de fiscalização dos bens imóveis do Estado do Piauí e a
+regularizar as ocupações desses imóveis, podendo, para tanto, firmar convênios com os
+Municípios em cujos territórios se localizem e, observados os procedimentos licitatórios
+previstos em lei, celebrar contratos com a iniciativa privada.
+#### Art. 2º Os Municípios e a iniciativa privada, a critério da Secretaria de Administração e
+Previdência do Estado do Piauí, observadas as instruções que regulamentam a matéria,
+poderão firmar, mediante convênios ou contratos com essa Secretaria, compromisso para
+executar ações de demarcação, de cadastramento, de avaliação, de locação, de venda e de
+fiscalização de áreas do patrimônio do Estado do Piauí, assim como para o planejamento,
+a execução e a aprovação dos parcelamentos urbanos e rurais
+#### Art. 3º As avaliações para fins de alienação onerosa dos domínios pleno, útil ou direto de
+imóveis do Estado do Piauí, permitida a contratação de empresas públicas, órgãos ou
+entidades da administração pública direta ou indireta do Estado do Piauí, ou dos
+Municípios cuja atividade-fim seja o desenvolvimento urbano ou imobiliário, com
+dispensa de licitação, ou de empresa privada, por meio de licitação, serão realizadas pela
+Secretaria de Administração e Previdência do Estado do Piauí.
+#### Art. 4º Os procedimentos de alienação dos imóveis estaduais deverão ser precedidos de
+laudos de avaliação dos imóveis elaborados por órgão ou entidade da administração
+pública ou empresas devidamente credenciadas para este fim.
+* **§ 1º O órgão ou a entidade pública gestora do imóvel poderá estabelecer que o laudo de**
+avaliação preveja os valores para a venda do imóvel de acordo com prazo inferior à média
+de absorção do mercado.
+* **§ 2º É vedada a avaliação por empresas credenciada cujos sócios sejam servidores da**
+Administração Pública Estadual, ou seus parentes, em linha reta ou colateral, por
+consanguinidade ou afinidade, até o terceiro grau, inclusive.
+#### Art. 5º Na hipótese do certame licitatório ser deserto ou fracassado, a Secretaria de
+Administração e Previdência do Estado do Piauí poderá realizar o seu relançamento com
+desconto de 25% (vinte e cinco por cento) sobre o valor de avaliação vigente.
+
+* **§ 1º Na hipótese do certame licitatório ser deserto ou fracassado por 2 (duas) vezes**
+consecutivas, os imóveis poderão ser disponibilizados automaticamente para venda
+direta, aplicado o desconto de 25% (vinte e cinco por cento) sobre o valor de avaliação.
+* **§ 2º A compra de imóveis do Estado do Piauí disponibilizados para venda direta poderá**
+ser intermediada por corretores de imóveis credenciadas, mediante criação de
+normatização estadual especifica para tal finalidade.
+* **§ 3º Na hipótese de que trata o § 2º deste artigo, caberá ao comprador o pagamento dos**
+valores de corretagem.
+#### Art. 6º A Secretaria de Administração e Previdência do Estado do Piauí será responsável
+pelo acompanhamento e monitoramento dos dados patrimoniais recebidos dos órgãos e
+das entidades da administração pública estadual e pelo apoio à realização das operações
+de alienação de bens imóveis.
+* **§ 1º Os órgãos e das entidades da administração pública devem manter anualmente**
+inventário atualizado dos bens imóveis sob sua gestão, públicos ou privados, e
+disponibilizá-lo à Secretaria de Administração e Previdência do Estado do Piauí.
+* **§ 2º A Secretaria de Administração e Previdência do Estado do Piauí será responsável**
+pela compilação dos dados patrimoniais recebidos dos órgãos, das autarquias e das
+fundações públicas e pelo apoio à realização das operações de alienação de bens do
+Estado do Piauí.
+* **§ 3º As demais condições para a execução das ações previstas neste artigo serão**
+estabelecidas em ato do Secretário de Administração e Previdência do Estado do Piauí.
+#### Art. 7º Sem prejuízo dos requisitos e das condições estabelecidos em Lei, na hipótese de
+estado de calamidade pública reconhecido em ato do Poder Executivo estadual, o crédito
+inscrito em dívida ativa do Estado poderá ser extinto mediante dação em pagamento de
+bens imóveis que possuam valor histórico, cultural, artístico, turístico ou paisagístico,
+desde que estejam localizados nas áreas descritas nas informações de desastre natural ou
+tecnológico e as atividades empresariais do devedor legítimo proprietário do bem imóvel
+decorram das áreas afetadas pelo desastre.
+* **§ 1º Para fins da avaliação de imóveis previstos no caput deste artigo, caberá ao Instituto**
+do Patrimônio Histórico e Artístico Nacional (Iphan) a autenticação prévia e a definição
+do valor histórico, cultural, artístico, turístico ou paisagístico, observado, no que couber,
+o disposto no art. 28 do Decreto-Lei nº 25, de 30 de novembro de 1937.
+* **§ 2º O contribuinte que se encontrar na situação de que trata o caput deste artigo cujo**
+crédito que se pretenda extinguir não esteja inscrito em dívida ativa poderá solicitar sua
+inscrição imediata à Secretaria de Fazenda do Estado do Piauí, desde que renuncie
+expressamente ao direito sobre o qual se fundamente eventual discussão judicial ou
+administrativa.
+* **§ 3º Na hipótese de desastre tecnológico, consumada a dação em pagamento para a**
+extinção dos débitos tributários, o Estado do Piauí sub-rogar-se-á nos direitos inerentes à
+
+indenização devida pelo causador do dano e, na hipótese de inadimplemento, promoverá
+a inscrição em dívida ativa dos valores apurados em procedimento administrativo próprio.
+* **§ 4º Não serão aceitos imóveis de difícil alienação, inservíveis ou que não atendam aos**
+critérios de necessidade, de utilidade e de conveniência, a serem aferidos pela
+administração pública estadual, condicionada a aceitação pela Procuradoria-Geral do
+Estado do Piauí e pelo Iphan ao interesse público e à observância das normas e dos
+procedimentos específicos para a avaliação do bem.
+* **§ 5º Ato do Secretário de Fazenda do Estado do Piauí disporá sobre a necessidade e a**
+forma de comprovação da disponibilidade orçamentária e financeira para a aceitação da
+dação em pagamento de que trata este artigo.
+* **§ 6º O disposto neste artigo não se aplica às hipóteses de declaração de estado de**
+calamidade pública financeira.
+#### Art. 8º A administração pública poderá celebrar contrato de gestão para ocupação de
+imóveis públicos, nos termos da Lei nº 8.666, de 21 de junho de 1993.
+* **§ 1º O contrato de gestão para ocupação de imóveis públicos consiste na prestação, em**
+um único contrato, de serviços de gerenciamento e manutenção de imóvel, incluído o
+fornecimento dos equipamentos, materiais e outros serviços necessários ao uso do imóvel
+pela administração pública, por escopo ou continuados.
+* **§ 2º O contrato de gestão para ocupação de imóveis públicos poderá:**
+  - I - incluir a realização de obras para adequação do imóvel, inclusive a elaboração dos
+projetos básico e executivo;
+  - II - ter prazo de duração de até 20 (vinte) anos, quando incluir investimentos iniciais
+relacionados à realização de obras e o fornecimento de bens.
+* **§ 3º Na hipótese de que trata o § 2º deste artigo, as obras e os bens disponibilizados serão**
+de propriedade do contratante.
+* **§ 4º Ato do Poder Executivo poderá regulamentar o disposto neste artigo.**
+#### Art. 9° Fica o Estado do Piauí autorizado, nos moldes do artigo anterior, a celebrar com
+Organizações Sociais sem fins lucrativos que possuam certificado de entidade de
+assistência social na área da saúde (CEBAS) e tenham comprovada experiência de gestão
+de saúde no estado do Piauí, há pelo menos 10 (dez) anos, Contratos de Gestão dos
+imóveis onde se situam os hospitais e demais unidades de saúdes do estado do Piauí, com
+a prestação, em único instrumento, dos serviços de gestão e manutenção dos imóveis,
+fornecimento de equipamentos, bem como com a possibilidade de inclusão de quaisquer
+serviços, continuados ou não, que se façam necessários para a manutenção e boa prestação
+dos serviços públicos de saúde por esta Unidade da Federação. (Revogado pela Lei nº
+8.058, de 31 de maio 2023)
+* **Parágrafo único. A Administração Pública poderá dispensar a realização do chamamento**
+público: (Revogado pela Lei nº 8.058, de 31 de maio 2023)
+
+  - I - no caso de urgência decorrente de paralisação ou iminência de paralisação de
+atividades de relevante interesse público, pelo prazo de até 180 (cento e oitenta) dias;
+(Revogado pela Lei nº 8.058, de 31 de maio 2023)
+  - II - nos casos de guerra, calamidade pública, grave perturbação da ordem pública ou
+ameaça à paz social; (Revogado pela Lei nº 8.058, de 31 de maio 2023)
+  - III - quando se tratar da realização de programa de proteção a pessoas ameaçadas ou em
+situação que possa comprometer a sua segurança; (Revogado pela Lei nº 8.058, de 31
+de maio 2023)
+  - IV - no caso de atividades voltadas ou vinculadas a serviços de educação, saúde e
+assistência social, desde que executadas por organizações da sociedade civil previamente
+credenciadas e que sejam ou que já tenham sido contratadas para contrato de gestão de
+serviço público pelo órgão que administra a respectiva política nesta Unidade Federada.
+(Revogado pela Lei nº 8.058, de 31 de maio 2023)
+#### Art. 10. Esta Lei entra em vigor na data de sua publicação.
+PALÁCIO DE KARNAK, em Teresina (PI), 27 de outubro de 2021.
+
+GOVERNADOR DO ESTADO DO PIAUÍ
+José Wellington Barroso de Araújo Dias
+
+SECRETÁRIO DE GOVERNO
+Osmar Ribeiro de Almeida Júnior
+
+(Este texto não substitui o Publicado no Diário Oficial do Estado, de 27.10.2021.)
+
+

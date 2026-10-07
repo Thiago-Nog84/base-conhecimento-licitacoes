@@ -1,0 +1,43 @@
+commit,data,mensagem
+70aa07e530419a0a5e93dcd3425709912096ced4,2026-10-03 14:08,Carga inicial da base de conhecimento (519 arquivos .md)
+e73af03c6098e8df2182f751bab55119454d82dc,2026-10-03 14:22,"Documentação para continuidade, ferramentas, CSVs de controle e 20 .md do piloto"
+1479044e37072abaeb37b0a5c1a6137e463484e4,2026-10-03 15:10,"Conversor v2 (OCR na posição da página, remoção de cabeçalhos/rodapés, limpeza de espaços, OCR em faixas) e auditoria do piloto"
+17865b92a6753090e65eada86e2540e55aa50d3f,2026-10-03 15:12,"PIPELINE: lógica do conversor v2, qa_conversao e regra dos infográficos"
+d453b3533676eee0db68b9f87b21e5cd57adbf2c,2026-10-03 15:19,Piloto: 16 .md substituídos pela v2 do conversor; Livro licenciado retirado do repositório (fica só local)
+3132263f9180a00243b1ce81384fb7bbbf2ec2a1,2026-10-03 15:21,"Docs: regras de obras licenciadas e infográficos, scripts e lista dos lotes de conversão"
+60a6cfdb1d7345d651902517f6755f069113c25c,2026-10-03 15:52,Lote 01: 50 PDFs convertidos; conversor v2.1 (cabeçalhos só nas bordas da página) e 18 .md reconvertidos
+597be850e544a85f15fb6c73f5b3fd1c43e17d6e,2026-10-03 15:57,Lote 02: 50 PDFs convertidos; obras comerciais dos lotes 05/06 no .gitignore
+72a2b7f7c3a4069b0694356ba00c59f62352cc3c,2026-10-03 16:03,Lote 03: 50 PDFs convertidos
+965edc9efabf421629e06c19d5614f67f1d469fd,2026-10-03 16:07,Lote 04: 49 PDFs convertidos (1 PDF de origem corrompido)
+aa60a6128abf50be09d2d7c95e71cefc99f8d2cf,2026-10-03 17:48,Lote 05: 50 PDFs convertidos (3 obras comerciais só no clone local)
+26937d75808bea4cc7636f3e7b755cd19702c927,2026-10-03 17:56,Lote 06: 15 PDFs convertidos; conversão em lote concluída (264/265)
+37654454a06003d8ffbbfd09f585ab97e781c04b,2026-10-03 20:46,"Remove MJR n56 (continha escala de plantonistas, não uma MJR)"
+b2e284c80a93c2a850b4d71188110041d4ecbb05,2026-10-03 20:56,Docs: cópias da escala com nome de MJR também apagadas do E:
+bb2a15feffdc54cd0849ac2350a5c1089ccb39dc,2026-10-03 21:27,Docs: histórico reescrito sem o MJR n56 e o Livro; códigos de commit atualizados
+3238f4fec548cf7e642afa8fc748fdeb6dbe1a3f,2026-10-03 21:28,Docs: conferência da reescrita do histórico
+cbd69b17b7a8e9a3ac6654c491b2a265c60f125f,2026-10-04 22:51,Etapa 12: grupo A dos Downloads (lote 07) e boletins Guia Lici 06-08/2026
+99d4d7fe08815cf0d1d456bc465769d7bf2cad78,2026-10-04 23:01,docs: ponto de retomada do grupo B dos Downloads
+6efc946845ac781c4804ff458d09bbb554d16729,2026-10-05 09:26,"Etapa 13: grupo B dos Downloads (lote 08, docx/xlsx, anonimizacao)"
+170e891aa47291eafb9862da93e5604375f79fc5,2026-10-05 10:37,"Etapa 14: grupo C dos Downloads (lote 09, suprimento de fundos, material didatico, modelos de ARP)"
+7233f0b39a5671987057f041c68eb7aa1fcc01bb,2026-10-05 10:38,"Etapa 14: controles do grupo C (plano, log de movimentacao e log de conversao)"
+ccb29437ae4603d8f882ffabc5151f22d317e286,2026-10-05 13:20,Indice por fase: mapa curado e gerador (proposta em andamento)
+9fb8b7f65759afded9d3192ac6a2feb584e390b5,2026-10-05 14:01,Indice por fase: apendices da proposta e saida fora da base
+da298decd0f73f03f2ebdc465e6e364bd5ed16a4,2026-10-05 14:12,Indice por fase aplicado: raiz da mestra e do clone
+0ed26f51a9c257f997ac79e0386440ec0ba5bd2d,2026-10-05 14:50,Roteiro de credenciamento: versiona o .md que ja estava na mestra
+f15c9ab63a9b6a1ff88641bd84596dfd175eb7f2,2026-10-05 14:52,Indice por fase: inclui o roteiro de credenciamento (secao 12)
+1e30880d2e64277d248a6735d7370874b9dbde17,2026-10-05 15:21,Portaria 106/2025: excluida da mestra a pedido do usuario
+1ece165c4f781a54a3169b4fe6bc660ec63cf618,2026-10-05 15:25,Portaria 106/2025: copia do E: tambem para a Lixeira
+196905bd73719321dfbc3cd7b138840fa2d66396,2026-10-05 15:33,Renomeia Ato PGJ 0228.2022 para 1228.2022 (suprimento de fundos)
+3628e2d068159df85c4501cf6f15a1bceb00e145,2026-10-05 15:41,Ato PGJ 1228.2022 da pasta Atos marcado como texto original
+41d6d206610c95eb96ca0201f2c38ecf9a05a0d0,2026-10-05 16:19,Atos PGJ 1.106/2021 e 1.480/2025: lote 10 e troca do .md misturado (etapa 20)
+18ccdf4064073f698310067c248ed4fd2111fb5a,2026-10-06 07:34,Retira infográfico com nome de Portaria 8.678/2021 (etapa 21)
+dfe266bc61dc367ef90f21e99dbb8e3fcc16c85f,2026-10-06 07:59,Etapa 22: Manual IRB/Ibraop que estava com nome de Res. TCE-PI 19/2024
+8a177d92100f2896542fa5fe5aa23614101ba80a,2026-10-06 08:06,"Etapa 23: Acórdão TCE-PI 300/2025, que estava como ""n3001"" com o DOE inteiro"
+ec108570ee309569e63b955e307bae603ca5263a,2026-10-06 08:22,Etapa 24: Ato PGJ 1471/2025 com PDF oficial (lote 11) e aviso no Ato 823
+aaeff93e95140c73c12a4ed77a5f7c0f653483c7,2026-10-06 08:26,PENDENCIAS: Ato PGJ 462/2013 com lixo binario; virgulas na frase do A.1
+60578bddc8c455ddc932deffe040a72db378defd,2026-10-06 08:55,"Etapa 25: PDFs incluídos em 03_MPPI/Atos, lote 12 e duplicados na Lixeira"
+623cfdf9cbe5d2c8a4249056c88c8e134ee21c98,2026-10-06 09:14,Etapa 26: nome do usuário trocado por marcador nas notas de fonte
+074a5828b24816698da576a5af9cecc0f81ec276,2026-10-06 09:33,Etapa 26 (2ª parte): nome completo e matrícula do usuário em 8 .md
+e09827144cd25128769186e4ec9c8aa10192483e,2026-10-06 09:47,Etapa 26 (3ª parte): demais servidores nas portarias e no ofício
+217deb632ce23a397f0699c1fdc19945f0209571,2026-10-06 10:47,Etapa 26 (4a parte): atos oficiais mantem nomes de servidores; docs internos anonimizados
+7c497459d41ea572307752ca9e5201fcb40bb4fb,2026-10-06 10:55,Etapa 26 (5a parte): nome do usuario fora dos nomes de arquivo

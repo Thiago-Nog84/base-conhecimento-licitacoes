@@ -1,0 +1,15 @@
+﻿commit_antigo,commit_novo,mensagem
+70aa07e530419a0a5e93dcd3425709912096ced4,70aa07e530419a0a5e93dcd3425709912096ced4,Carga inicial da base de conhecimento (519 arquivos .md)
+e3810f6c70311737b4378ee0d0526321c0366481,e73af03c6098e8df2182f751bab55119454d82dc,"Documentação para continuidade, ferramentas, CSVs de controle e 20 .md do piloto"
+058fa7b50572b7c2bec8157a88d95b839c176e5e,1479044e37072abaeb37b0a5c1a6137e463484e4,"Conversor v2 (OCR na posição da página, remoção de cabeçalhos/rodapés, limpeza de espaços, OCR em faixas) e auditoria do piloto"
+d1cf26c9b8bc531bc39e787715bba6791a688998,17865b92a6753090e65eada86e2540e55aa50d3f,"PIPELINE: lógica do conversor v2, qa_conversao e regra dos infográficos"
+860c8a39e685a90efdbbbc3d6abbd74164550d3d,d453b3533676eee0db68b9f87b21e5cd57adbf2c,Piloto: 16 .md substituídos pela v2 do conversor; Livro licenciado retirado do repositório (fica só local)
+6e5ff68952b6a5fdca1588cdf0afa49d692baf5b,3132263f9180a00243b1ce81384fb7bbbf2ec2a1,"Docs: regras de obras licenciadas e infográficos, scripts e lista dos lotes de conversão"
+8117e03bff1d6501b7a2455e3c075f709633a877,60a6cfdb1d7345d651902517f6755f069113c25c,Lote 01: 50 PDFs convertidos; conversor v2.1 (cabeçalhos só nas bordas da página) e 18 .md reconvertidos
+0b0bfdced17c54a6e9e00972cd31a5e9bdef2560,597be850e544a85f15fb6c73f5b3fd1c43e17d6e,Lote 02: 50 PDFs convertidos; obras comerciais dos lotes 05/06 no .gitignore
+1aea0185527b008a05ab14b1b9d7793eafe5c17c,72a2b7f7c3a4069b0694356ba00c59f62352cc3c,Lote 03: 50 PDFs convertidos
+0e687d6bd738cafc7fc2b5fa5f7642343bfc6e95,965edc9efabf421629e06c19d5614f67f1d469fd,Lote 04: 49 PDFs convertidos (1 PDF de origem corrompido)
+d0d234cfef1e570eddb02bedda8e5c85c7b955da,aa60a6128abf50be09d2d7c95e71cefc99f8d2cf,Lote 05: 50 PDFs convertidos (3 obras comerciais só no clone local)
+e278db8368b3fc093970f59338f04b27a14d9b8f,26937d75808bea4cc7636f3e7b755cd19702c927,Lote 06: 15 PDFs convertidos; conversão em lote concluída (264/265)
+57a485cbd22ab5a2ce32c41fc21c5695fff818b9,37654454a06003d8ffbbfd09f585ab97e781c04b,"Remove MJR n56 (continha escala de plantonistas, não uma MJR)"
+8c8851f9e05ee13a09b1322b545be988c63c678e,b2e284c80a93c2a850b4d71188110041d4ecbb05,Docs: cópias da escala com nome de MJR também apagadas do E:
