@@ -38,7 +38,7 @@ Decisão do usuário: **copiar os 155** (não renomear). O .md de origem foi pre
 
 ## Etapa 6 — Repositório GitHub
 Ideia do usuário: um repositório para usar a base em todos os projetos. Decisões:
-- Repositório **privado** `Thiago-Nog84/base-conhecimento-licitacoes`; clone em `C:\Users\thiagonogueira\Dev\base-conhecimento-licitacoes`.
+- Repositório **privado** `Thiago-Nog84/base-conhecimento-licitacoes`; clone em `C:\Users\thiagonogueira\Dev\base-conhecimento-licitacoes` (na SSD portátil, em `D:\00_ATIVO\Dev\base-conhecimento-licitacoes`, desde a etapa 29).
 - **Opção A**: o clone espelha a estrutura da mestra com PDFs e MDs lado a lado, mas `*.pdf` está no `.gitignore`. Só os .md vão para o GitHub.
 - **Copiar** (não mover) da mestra; originais permanecem no OneDrive.
 - Escopo da carga: todos os .md da mestra (exceto quarentena e exceto os 155 .md de origem já copiados com o nome do PDF, para não duplicar) e os PDFs com .md equivalente.
@@ -332,3 +332,9 @@ Antes desta etapa, o usuário fez uma limpeza manual no `Downloads`. O inventár
 - **Resíduo da etapa 26:** o título H1 do modelo de TAAP ainda trazia o nome do usuário, em maiúsculas; a conferência da etapa 26 diferenciava maiúsculas e não o pegou. Corrigido na mestra e no clone (backup em `Claude\backup_md\anonimizacao\2026-10-07\titulo_taap\`, `log_substituicao_md.csv`). Por decisão do usuário, a correção entrou por *amend* do commit raiz e *force push*: o raiz passou de `2162665` para `2ff250d`. Lição: buscar nomes sempre sem diferenciar maiúsculas.
 - **Limpeza local:** a limpeza do reflog e `git gc --prune=now` foi bloqueada de início pela permissão automática do ambiente; rodou depois, a pedido expresso do usuário. O raiz antigo `2162665` não existe mais no clone.
 - **Logs de controle (decisão do usuário):** o nome antigo do arquivo de TAAP, com o nome do usuário, continua como caminho em 9 linhas de 5 CSVs de `docs/controle/` (`log_carga_repo`, `log_renomeacao`, `log_substituicao_md`, `mapa_pares_pdf_md` e `_v2`). Ficam como estão, porque são esses registros que permitem desfazer a renomeação.
+
+## Etapa 29 — Clone movido para a SSD portátil (2026-10-07)
+- **Pedido do usuário:** liberar espaço no C: do notebook. O clone saiu de `C:\Users\thiagonogueira\Dev\base-conhecimento-licitacoes` e foi para `D:\00_ATIVO\Dev\base-conhecimento-licitacoes`, na SSD portátil (exFAT, com BitLocker).
+- **Como:** cópia com robocopy (1.508 arquivos, 1,75 GB, PDFs locais incluídos); conferência por SHA-256, arquivo a arquivo, sem nenhuma diferença; `git fsck` sem erros. O original só foi apagado do C: depois disso. No exFAT, o git pede `-c safe.directory=*` ou `safe.directory` na configuração global.
+- **Caminhos:** 4 scripts de `ferramentas/` tinham o clone fixo no código: `carregar_repo.py`, `substituir_md.py`, `substituir_piloto_v2.py` e `preencher_guialici_2026.py`. Agora eles calculam o caminho a partir do próprio script, o que funciona com qualquer letra de unidade. As cópias em `Claude\scripts\` apontam para `D:\00_ATIVO\Dev\base-conhecimento-licitacoes`. AGENTS.md e PIPELINE.md foram atualizados.
+- **Ficam como estão:** os logs CSV de `docs/controle/` e de `Claude\` guardam o caminho antigo; registros históricos não são reescritos. Os demais scripts continuam dependendo da mestra no OneDrive e da pasta `Claude\` do notebook.

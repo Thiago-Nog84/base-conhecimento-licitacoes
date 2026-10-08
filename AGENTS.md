@@ -15,7 +15,7 @@ Este repositório é uma **base de conhecimento em Markdown sobre licitações e
 | Local | Papel |
 |---|---|
 | `C:\Users\thiagonogueira\OneDrive - mppi.mp.br\CLC\01_Processos_e_Aquisicoes\Base de Conhecimento - Thiago` | **Pasta mestra** (fonte da verdade: PDFs + MDs) |
-| `C:\Users\thiagonogueira\Dev\base-conhecimento-licitacoes` | Clone deste repositório (MDs versionados + PDFs locais, ignorados pelo Git) |
+| `D:\00_ATIVO\Dev\base-conhecimento-licitacoes` | Clone deste repositório (MDs versionados + PDFs locais, ignorados pelo Git), na SSD portátil desde 2026-10-07. A letra da SSD pode mudar em outro PC |
 | `https://github.com/Thiago-Nog84/base-conhecimento-licitacoes` | Repositório **privado** (só `.md` e documentação) |
 | `C:\Users\thiagonogueira\Claude` | Pasta de trabalho: scripts originais e CSVs de controle (cópias em `ferramentas/` e `docs/controle/`) |
 

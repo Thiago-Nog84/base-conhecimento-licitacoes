@@ -8,7 +8,7 @@ import csv, os, shutil, hashlib, collections
 
 BASE = r'C:\Users\thiagonogueira\Claude'
 ROOT = r'C:\Users\thiagonogueira\OneDrive - mppi.mp.br\CLC\01_Processos_e_Aquisicoes\Base de Conhecimento - Thiago'
-REPO = r'C:\Users\thiagonogueira\Dev\base-conhecimento-licitacoes'
+REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  # raiz do clone (pasta acima de ferramentas)
 
 
 def lp(p):

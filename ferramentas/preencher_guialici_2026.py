@@ -7,7 +7,7 @@ import hashlib, os, shutil, datetime, sys
 
 REL = r'02_Jurisprudencia_e_Orientacoes\Informativos_Guia_Lici\Boletim Guia Lici - Consolidado Anual 2026.md'
 MESTRA = os.path.join(r'C:\Users\thiagonogueira\OneDrive - mppi.mp.br\CLC\01_Processos_e_Aquisicoes\Base de Conhecimento - Thiago', REL)
-CLONE = os.path.join(r'C:\Users\thiagonogueira\Dev\base-conhecimento-licitacoes', REL)
+CLONE = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), REL)  # raiz do clone
 BACKUP = r'C:\Users\thiagonogueira\Claude\backup_md'
 MD5_ESPERADO = '54709dd95f476dbbab0b975a69f3b941'
 NOTA = '> Transcrição revisada: OCR do PDF-imagem conferido manualmente com a imagem original em 04/10/2026.'

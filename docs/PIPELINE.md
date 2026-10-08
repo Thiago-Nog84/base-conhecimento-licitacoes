@@ -73,7 +73,7 @@ Troca de um .md existente pela conversão do PDF (só com autorização do usuá
 
 ## Publicação
 ```
-cd C:\Users\thiagonogueira\Dev\base-conhecimento-licitacoes
+cd D:\00_ATIVO\Dev\base-conhecimento-licitacoes
 git add -A
 git status --short | findstr /I ".pdf"   # deve sair vazio
 git commit -m "..."
