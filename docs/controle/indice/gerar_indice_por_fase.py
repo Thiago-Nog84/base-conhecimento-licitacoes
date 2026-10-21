@@ -20,7 +20,7 @@ NOME_INDICE = "00_Indice_por_Fase_da_Contratacao.md"
 RASCUNHO = Path(r"C:\Users\thiagonogueira\Claude\proposta_indice_por_fase.md")
 BACKUP = Path(r"C:\Users\thiagonogueira\Claude\backup_md\indice")
 # Os links sao relativos a raiz da mestra, onde o indice fica
-DATA = "2026-10-05"
+DATA = "2026-10-21"
 APLICAR = "--aplicar" in sys.argv
 SUBSTITUIR = "--substituir" in sys.argv
 ESCREVER = "--escrever" in sys.argv or APLICAR

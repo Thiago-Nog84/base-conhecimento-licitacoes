@@ -3,7 +3,7 @@ titulo: "Índice por fase da contratação"
 tipo: "Índice"
 assunto: "Mapa dos arquivos da base por fase da contratação, com a Lei 14.133/2021 como eixo"
 status: "vigente"
-gerado_em: 2026-10-05
+gerado_em: 2026-10-21
 gerado_por: "docs/controle/indice/gerar_indice_por_fase.py"
 tags: [indice, fases, navegacao]
 ---
@@ -21,7 +21,7 @@ tags: [indice, fases, navegacao]
 - Cada descrição foi conferida no **corpo** do arquivo, não no front-matter, que tem erros conhecidos (Apêndice A).
 - Arquivos com conteúdo trocado, duplicados ou fora do escopo ficaram de fora de propósito (Apêndices A e C).
 
-**Números:** 457 arquivos ligados (5 só locais), em 17 seções por fase, 5 temas transversais e 8 tipos de objeto.
+**Números:** 458 arquivos ligados (5 só locais), em 17 seções por fase, 5 temas transversais e 8 tipos de objeto.
 
 ## Mapa rápido
 
@@ -38,7 +38,7 @@ tags: [indice, fases, navegacao]
 | [8. Fase externa: edital, publicidade e sessão](#fase-8) | Lei 14.133, art. 17 (fases) | 22 |
 | [9. Julgamento das propostas e habilitação](#fase-9) | Lei 14.133, arts. 59-61 (julgamento) | 11 |
 | [10. Recursos, adjudicação e homologação](#fase-10) | Lei 14.133, arts. 164-168 (impugnações e recursos) | 3 |
-| [11. Contratação direta (dispensa e inexigibilidade)](#fase-11) | Lei 14.133, arts. 72-75 | 58 |
+| [11. Contratação direta (dispensa e inexigibilidade)](#fase-11) | Lei 14.133, arts. 72-75 | 59 |
 | [12. Procedimentos auxiliares e Sistema de Registro de Preços](#fase-12) | Lei 14.133, arts. 78-88 (credenciamento, pré-qualificação, PMI, SRP, registro cadastral) | 43 |
 | [13. Formalização, gestão e fiscalização do contrato](#fase-13) | Lei 14.133, arts. 89-95 (formalização) | 26 |
 | [14. Alterações, prorrogação, reequilíbrio e extinção](#fase-14) | Lei 14.133, arts. 104-114 (prerrogativas e duração) | 17 |
@@ -489,6 +489,7 @@ Mais: [Temas transversais](#temas-transversais) · [Por tipo de objeto](#por-tip
 
 - [ON AGU 88/2024 — dispensa em razão do valor](<01_Normativos_Vigentes/01_Federal/Acordaos_Pareceres_Orientacoes/Federal - ON 88.2024 AGU - Dispensa de Licitacao em Razao do Valor.md>)
 - [ON AGU 89/2024 — contratações diretas e alterações contratuais](<01_Normativos_Vigentes/01_Federal/Acordaos_Pareceres_Orientacoes/Federal - ON 89.2024 AGU - Contratacoes Diretas e Alteracoes Contratuais.md>)
+- [CGU — relatório de consultoria 2028007: custo do pregão e da dispensa em razão do valor (set/2026)](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/CGU - custo do pregão eletrônico e da dispensa de licitação em razão do valor no Poder Executivo federal.md>)
 - [Parecer referencial 00001/2026 CONJUR-MS](<01_Normativos_Vigentes/01_Federal/Acordaos_Pareceres_Orientacoes/Federal - Parecer Referencial 00001.2026 CONJUR-MS-CGU-AGU.md>)
 - [Parecer referencial 00003/2025 CONJUR-EB — inexigibilidade para cursos e pós-graduação](<01_Normativos_Vigentes/01_Federal/Acordaos_Pareceres_Orientacoes/Federal - Parecer Referencial 00003.2025 CONJUR-EB-CGU-AGU - Inexigibilidade para Cursos e Pos-Graduacao.md>)
 - [MPPI — MJR 92/2024 (dispensa, art. 75, I e II)](<02_Jurisprudencia_e_Orientacoes/MJRs_MPPI/Manifestação Jurídico Referencial - MJR - n92 - 2024.md>)

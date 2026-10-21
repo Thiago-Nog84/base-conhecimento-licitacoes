@@ -418,6 +418,7 @@ SECOES = [
             "J": [
                 ("ON 88.2024 AGU", "ON AGU 88/2024 — dispensa em razão do valor"),
                 ("ON 89.2024 AGU", "ON AGU 89/2024 — contratações diretas e alterações contratuais"),
+                ("CGU - custo do pregão eletrônico e da dispensa", "CGU — relatório de consultoria 2028007: custo do pregão e da dispensa em razão do valor (set/2026)"),
                 ("Parecer Referencial 00001.2026", "Parecer referencial 00001/2026 CONJUR-MS"),
                 ("Parecer Referencial 00003.2025", "Parecer referencial 00003/2025 CONJUR-EB — inexigibilidade para cursos e pós-graduação"),
                 ("Manifestação Jurídico Referencial - MJR - n92", "MPPI — MJR 92/2024 (dispensa, art. 75, I e II)"),
