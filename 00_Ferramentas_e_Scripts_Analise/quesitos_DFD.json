@@ -1,0 +1,107 @@
+{
+  "artefato": "DFD",
+  "versao": "1.0",
+  "descricao": "Quesitos adicionais de conformidade do DFD — baseados no Roteiro de Quesitos ASSCOMPRAS/MPPI e na verificação CNMP. Complementam os checks estruturais já realizados pelo script analisar_dfd.py.",
+  "quesitos": [
+    {
+      "id": "DFD-Q01",
+      "grupo": "Equipe de Planejamento",
+      "titulo": "Ausência de Declaração de Ciência das Atribuições pelos Integrantes (CNMP nº 283/2024)",
+      "tipo": "Vício Formal",
+      "localizacao": "Item 4 (Equipe de Planejamento da Contratação) — Declaração de Ciência",
+      "inconsistencia": "O DFD não evidencia que os integrantes da equipe de planejamento assinaram a declaração de ciência de suas atribuições, competências e responsabilidades, conforme exigido pela Resolução CNMP nº 283/2024. A ausência desse registro compromete a regularidade formal da composição da equipe e pode caracterizar vício de designação passível de questionamento pelos órgãos de controle.",
+      "fundamentacao": "Art. 7º, caput, da Lei nº 14.133/2021; art. 9º, §§ 1º e 2º, do Decreto Estadual (PI) nº 21.872/2023; Resolução CNMP nº 283/2024, art. 10 (obrigatoriedade de formalização da ciência das atribuições por cada integrante da equipe de planejamento); Ato PGJ/PI nº 1.381/2024.",
+      "acao": "Providenciar que cada integrante da equipe de planejamento assine, nos autos, o Termo de Ciência declarando pleno conhecimento de suas atribuições, competências e responsabilidades conforme a Resolução CNMP nº 283/2024, antes do início dos trabalhos de elaboração dos artefatos.",
+      "sugestao": "[Incluir, nos autos ou no próprio DFD, a assinatura eletrônica dos integrantes no campo 'Declaração de Ciência', confirmando a leitura e aceite das atribuições definidas pela Resolução CNMP nº 283/2024 e pelo Ato PGJ/PI nº 1.381/2024.]",
+      "is_tic_only": false,
+      "modo": "ausente",
+      "patterns": [
+        "ciência.*atribuiç",
+        "termo.*ciência",
+        "CNMP.*283",
+        "283.*CNMP",
+        "declaro.*ciência",
+        "ciência das competên",
+        "ciente.*atribuiç"
+      ]
+    },
+    {
+      "id": "DFD-Q02",
+      "grupo": "Requisitos TIC — Governança de TI",
+      "titulo": "[TIC] Ausência de Evidência de Envolvimento Formal da CTI na Instrução do DFD",
+      "tipo": "Vício Formal",
+      "localizacao": "DFD completo — Seções 4 e 8 (Equipe de Planejamento e Alinhamento Estratégico)",
+      "inconsistencia": "O DFD relativo a contratação de solução de TIC não apresenta evidência de encaminhamento formal e de participação da Coordenadoria de Tecnologia da Informação (CTI) na instrução do processo. A CTI deve ser envolvida desde a fase de DFD para validar o alinhamento com o PDTIC/PCA vigente, indicar o Integrante Técnico e emitir manifestação técnica sobre a pertinência e viabilidade da demanda.",
+      "fundamentacao": "Resolução CNMP nº 283/2024, art. 4º e art. 8º (atribuições do Integrante Técnico de TIC — representante obrigatório da área de TI); Decreto Estadual (PI) nº 21.872/2023, art. 9º, II (integrante técnico); Manual de Orientações Técnicas para Contratações de TIC (MOTec/CNMP); PEI 2022-2029, Objetivo Estratégico 3.5 (governança corporativa de TI).",
+      "acao": "Formalizar o encaminhamento do DFD à CTI, registrar nos autos a manifestação técnica da área de TI sobre a demanda e indicar expressamente o servidor designado como Integrante Técnico pela CTI.",
+      "sugestao": "[Incluir nos autos despacho da CTI (ou do CETI, conforme o caso) reconhecendo a demanda, validando o alinhamento com o PDTIC/PCA vigente e indicando o Integrante Técnico responsável pelo acompanhamento do processo de contratação.]",
+      "is_tic_only": true,
+      "modo": "ausente",
+      "patterns": [
+        "CTI",
+        "Coordenadoria de Tecnologia",
+        "área de TI",
+        "setor de TI",
+        "encaminhamento.*TI",
+        "TI.*encaminhamento",
+        "CETI",
+        "Comitê.*Tecnologia",
+        "área técnica.*TI",
+        "integrante técnico.*TI",
+        "TI.*integrante técnico"
+      ]
+    },
+    {
+      "id": "DFD-Q03",
+      "grupo": "Sustentabilidade Ambiental",
+      "titulo": "Ausência de Manifestação sobre Critérios de Sustentabilidade Aplicáveis à Contratação",
+      "tipo": "Sugestão de Melhoria",
+      "localizacao": "DFD completo (preferencialmente Item 9 — Fundamentação da Contratação)",
+      "inconsistencia": "O DFD não contém manifestação sobre a aplicabilidade (ou inaplicabilidade justificada) de critérios de sustentabilidade socioambiental ao objeto da contratação, nem referência ao Guia Nacional de Contratações Sustentáveis da CGU/AGU. A omissão pode ser apontada em auditoria como ausência de análise prévia de sustentabilidade exigida pela lei.",
+      "fundamentacao": "Art. 5º e art. 11, inciso IV, da Lei nº 14.133/2021 (princípio da sustentabilidade como diretriz obrigatória das contratações públicas); art. 18, § 1º, inciso XII (descrição de possíveis impactos ambientais e medidas mitigadoras); Guia Nacional de Contratações Sustentáveis — CGU/AGU; IN SEGES/ME nº 58/2022; Decreto Estadual (PI) nº 23.891/2025 (critérios socioambientais nas contratações do Estado do Piauí).",
+      "acao": "Incluir no DFD, no campo de Fundamentação ou em campo específico de sustentabilidade, manifestação expressa sobre os critérios socioambientais aplicáveis ao objeto. Se não houver critérios aplicáveis, registrar justificativa técnica de inaplicabilidade.",
+      "sugestao": "[Opção 1 — Aplicável: 'A contratação admite a incorporação dos seguintes critérios de sustentabilidade: (i) preferência por produtos/serviços com menor impacto ambiental; (ii) exigência de logística reversa para [embalagens/equipamentos]; (iii) observância dos requisitos do Decreto Estadual nº 23.891/2025.' | Opção 2 — Inaplicável: 'Considerando a natureza do objeto ([descrever]), não foram identificados critérios de sustentabilidade específicos de aplicação obrigatória, conforme consulta ao Guia Nacional de Contratações Sustentáveis (CGU/AGU).']",
+      "is_tic_only": false,
+      "modo": "ausente",
+      "patterns": [
+        "sustentabilidade",
+        "critério.*sustent",
+        "sustentável",
+        "ambiental",
+        "impacto.*ambiental",
+        "Guia.*Contratações.*Sustentáveis",
+        "Guia Nacional.*Sustent",
+        "logística reversa",
+        "Decreto.*23.891",
+        "baixo consumo",
+        "eficiência energética"
+      ]
+    },
+    {
+      "id": "DFD-Q04",
+      "grupo": "Planejamento Orçamentário",
+      "titulo": "Ausência de Identificação da Unidade Gestora/Orçamentária Responsável pelo Custeio",
+      "tipo": "Vício Formal",
+      "localizacao": "Item 3 (Informações Gerais da Contratação) — Unidade Orçamentária / Unidade Gestora",
+      "inconsistencia": "O DFD não identifica expressamente qual será a unidade gestora (UG) responsável pela despesa — PGJ (Procuradoria Geral de Justiça), FMMPI (Fundo de Modernização do MPPI) ou FPROCON (Fundo do PROCON). A indicação da fonte de recursos é obrigatória para a reserva de dotação orçamentária, emissão do empenho e verificação da adequação orçamentária e financeira da despesa.",
+      "fundamentacao": "Art. 72, inciso IV, da Lei nº 14.133/2021 (indicação dos recursos orçamentários como elemento obrigatório da instrução do processo); art. 18, § 1º, inciso IX, da mesma Lei; art. 20 do Decreto Estadual (PI) nº 21.872/2023; Decreto Estadual (PI) nº 21.938/2023, art. 13 (reserva orçamentária prévia à contratação).",
+      "acao": "Identificar e preencher no DFD, no campo Informações Gerais, a unidade gestora responsável pelo custeio da contratação: PGJ (código UG 250101), FMMPI (código UG 250102) ou FPROCON (código UG 250103), conforme a dotação orçamentária aprovada.",
+      "sugestao": "[Unidade Gestora: PGJ — Procuradoria Geral de Justiça (UG 250101)] ou [Unidade Gestora: FMMPI — Fundo de Modernização do MPPI (UG 250102)] ou [Unidade Gestora: FPROCON (UG 250103)]",
+      "is_tic_only": false,
+      "modo": "ausente",
+      "patterns": [
+        "PGJ",
+        "FMMPI",
+        "FPROCON",
+        "unidade gestora",
+        "unidade orçamentária",
+        "UG\\s*250",
+        "fundo de modernização",
+        "elemento de despesa",
+        "código.*despesa",
+        "fonte de recurso",
+        "dotação orçamentária"
+      ]
+    }
+  ]
+}
