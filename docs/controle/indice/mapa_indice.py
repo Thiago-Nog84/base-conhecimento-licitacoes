@@ -72,6 +72,7 @@ SECOES = [
                 ("Resolucao-CNMP-n-281", "Resolução CNMP 281/2023 — política de governança das contratações no MP"),
                 ("Resolução TCE-PI 039.2023", "Resolução TCE-PI 39/2023 — Plano de Contratações Anual"),
                 ("Ato PGJMPPI - n1381.0", "Ato PGJ 1.381/2024 — PCA no MPPI"),
+                ("SEAD Portaria 262.2026.GAB.SEAD", "Portaria SEAD 262/2026 — normas e procedimentos do PCA estadual"),
                 ("Ato PGJMPPI - n1414.0", "Ato PGJ 1.414/2024 — agentes de contratação, equipe de apoio e comissão"),
                 ("Ato PGJMPPI - n1448.0", "Ato PGJ 1.448/2024 — agentes públicos da contratação"),
                 ("Ato PGJ 0479.2014", "Ato PGJ 479/2014 — estrutura e atribuições das unidades administrativas do MPPI (alterado pelos Atos 1.106/2021, 1.180/2022 e 1.480/2025)"),
@@ -453,6 +454,8 @@ SECOES = [
                 ("SEAD IN 01.2021", "IN SEAD 01/2021 — limite de adesões às atas da SEADPREV"),
                 ("Decreto Estadual 23868.2025", "Decreto Estadual 23.868/2025 — Procedimento de Manifestação de Interesse (PMI)"),
                 ("n20.096112021", "Decreto Estadual 20.096/2021 — credenciamento para unidades de saúde"),
+                ("Decreto Estadual 24756.2026", "Decreto Estadual 24.756/2026 — regulamenta o credenciamento e o comércio eletrônico no Piauí"),
+                ("SEAD Portaria 355.2026", "Portaria SEAD 355/2026 — política Contrata MEI Piauí (Contrata+Brasil)"),
             ],
             "M": [
                 ("POP - Contratacao por ARP Propria", "MPPI — POP contratação por ARP própria (POP-CLC-05)"),

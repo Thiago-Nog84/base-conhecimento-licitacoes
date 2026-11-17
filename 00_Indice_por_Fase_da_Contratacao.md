@@ -21,14 +21,14 @@ tags: [indice, fases, navegacao]
 - Cada descrição foi conferida no **corpo** do arquivo, não no front-matter, que tem erros conhecidos (Apêndice A).
 - Arquivos com conteúdo trocado, duplicados ou fora do escopo ficaram de fora de propósito (Apêndices A e C).
 
-**Números:** 458 arquivos ligados (5 só locais), em 17 seções por fase, 5 temas transversais e 8 tipos de objeto.
+**Números:** 461 arquivos ligados (5 só locais), em 17 seções por fase, 5 temas transversais e 8 tipos de objeto.
 
 ## Mapa rápido
 
 | Seção | Lei 14.133 | Links |
 |---|---|---|
 | [0. Base legal comum (consulta em todas as fases)](#fase-0) | Lei 14.133/2021 (íntegra) | 35 |
-| [1. Governança, PCA e agentes públicos](#fase-1) | Lei 14.133, art. 11, parágrafo único | 30 |
+| [1. Governança, PCA e agentes públicos](#fase-1) | Lei 14.133, art. 11, parágrafo único | 31 |
 | [2. Formalização da demanda (DFD)](#fase-2) | Lei 14.133, art. 18, caput | 5 |
 | [3. Estudo Técnico Preliminar (ETP)](#fase-3) | Lei 14.133, art. 6º, XX | 16 |
 | [4. Gestão de riscos](#fase-4) | Lei 14.133, art. 18, X | 8 |
@@ -39,7 +39,7 @@ tags: [indice, fases, navegacao]
 | [9. Julgamento das propostas e habilitação](#fase-9) | Lei 14.133, arts. 59-61 (julgamento) | 11 |
 | [10. Recursos, adjudicação e homologação](#fase-10) | Lei 14.133, arts. 164-168 (impugnações e recursos) | 3 |
 | [11. Contratação direta (dispensa e inexigibilidade)](#fase-11) | Lei 14.133, arts. 72-75 | 59 |
-| [12. Procedimentos auxiliares e Sistema de Registro de Preços](#fase-12) | Lei 14.133, arts. 78-88 (credenciamento, pré-qualificação, PMI, SRP, registro cadastral) | 43 |
+| [12. Procedimentos auxiliares e Sistema de Registro de Preços](#fase-12) | Lei 14.133, arts. 78-88 (credenciamento, pré-qualificação, PMI, SRP, registro cadastral) | 45 |
 | [13. Formalização, gestão e fiscalização do contrato](#fase-13) | Lei 14.133, arts. 89-95 (formalização) | 26 |
 | [14. Alterações, prorrogação, reequilíbrio e extinção](#fase-14) | Lei 14.133, arts. 104-114 (prerrogativas e duração) | 17 |
 | [15. Sanções administrativas e responsabilização](#fase-15) | Lei 14.133, arts. 155-163 | 5 |
@@ -114,6 +114,7 @@ Mais: [Temas transversais](#temas-transversais) · [Por tipo de objeto](#por-tip
 - [Resolução CNMP 281/2023 — política de governança das contratações no MP](<01_Normativos_Vigentes/04_CNMP/Resolucoes/Resolucao-CNMP-n-281-de-2023 (Politica de Governanca das Contratacoes).md>)
 - [Resolução TCE-PI 39/2023 — Plano de Contratações Anual](<01_Normativos_Vigentes/05_TCE_PI/Resolucoes/Resolução TCE-PI 039.2023 - Plano de Contratacoes Anual.md>)
 - [Ato PGJ 1.381/2024 — PCA no MPPI](<01_Normativos_Vigentes/03_MPPI/Atos/Ato PGJMPPI - n1381.0 - 2024.md>)
+- [Portaria SEAD 262/2026 — normas e procedimentos do PCA estadual](<01_Normativos_Vigentes/02_Estadual_PI/Portarias/SEAD Portaria 262.2026.GAB.SEAD - Plano de Contratações Anual (PCA).md>)
 - [Ato PGJ 1.414/2024 — agentes de contratação, equipe de apoio e comissão](<01_Normativos_Vigentes/03_MPPI/Atos/Ato PGJMPPI - n1414.0 - 2024.md>)
 - [Ato PGJ 1.448/2024 — agentes públicos da contratação](<01_Normativos_Vigentes/03_MPPI/Atos/Ato PGJMPPI - n1448.0 - 2024.md>)
 - [Ato PGJ 479/2014 — estrutura e atribuições das unidades administrativas do MPPI (alterado pelos Atos 1.106/2021, 1.180/2022 e 1.480/2025)](<01_Normativos_Vigentes/03_MPPI/Atos/Ato PGJ 0479.2014 - Estrutura e Organizacao Administrativa do MPPI.md>)
@@ -516,6 +517,8 @@ Mais: [Temas transversais](#temas-transversais) · [Por tipo de objeto](#por-tip
 - [IN SEAD 01/2021 — limite de adesões às atas da SEADPREV](<01_Normativos_Vigentes/02_Estadual_PI/Instrucoes_Normativas/SEAD IN 01.2021 - Dispõe sobre o limite de adesões das atas de Registro de Preços gerenciadas pela SEADPREV.md>)
 - [Decreto Estadual 23.868/2025 — Procedimento de Manifestação de Interesse (PMI)](<01_Normativos_Vigentes/02_Estadual_PI/Decretos/Decreto Estadual 23868.2025 - Procedimento de Manifestação de Interesse (PMI).md>)
 - [Decreto Estadual 20.096/2021 — credenciamento para unidades de saúde](<01_Normativos_Vigentes/02_Estadual_PI/Decretos/Decreto Estadual - n20.096112021 - 2021.md>)
+- [Decreto Estadual 24.756/2026 — regulamenta o credenciamento e o comércio eletrônico no Piauí](<01_Normativos_Vigentes/02_Estadual_PI/Decretos/Decreto Estadual 24756.2026 - Credenciamento e Comércio Eletrônico.md>)
+- [Portaria SEAD 355/2026 — política Contrata MEI Piauí (Contrata+Brasil)](<01_Normativos_Vigentes/02_Estadual_PI/Portarias/SEAD Portaria 355.2026 - Contrata MEI Piauí (Contrata+Brasil).md>)
 
 ### Modelos, roteiros e checklists
 
