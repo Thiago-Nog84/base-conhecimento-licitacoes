@@ -3,7 +3,7 @@ titulo: "Índice por fase da contratação"
 tipo: "Índice"
 assunto: "Mapa dos arquivos da base por fase da contratação, com a Lei 14.133/2021 como eixo"
 status: "vigente"
-gerado_em: 2026-10-21
+gerado_em: 2026-11-18
 gerado_por: "docs/controle/indice/gerar_indice_por_fase.py"
 tags: [indice, fases, navegacao]
 ---
@@ -21,7 +21,7 @@ tags: [indice, fases, navegacao]
 - Cada descrição foi conferida no **corpo** do arquivo, não no front-matter, que tem erros conhecidos (Apêndice A).
 - Arquivos com conteúdo trocado, duplicados ou fora do escopo ficaram de fora de propósito (Apêndices A e C).
 
-**Números:** 461 arquivos ligados (5 só locais), em 17 seções por fase, 5 temas transversais e 8 tipos de objeto.
+**Números:** 456 arquivos ligados (5 só locais), em 17 seções por fase, 5 temas transversais e 8 tipos de objeto.
 
 ## Mapa rápido
 
@@ -30,9 +30,9 @@ tags: [indice, fases, navegacao]
 | [0. Base legal comum (consulta em todas as fases)](#fase-0) | Lei 14.133/2021 (íntegra) | 35 |
 | [1. Governança, PCA e agentes públicos](#fase-1) | Lei 14.133, art. 11, parágrafo único | 31 |
 | [2. Formalização da demanda (DFD)](#fase-2) | Lei 14.133, art. 18, caput | 5 |
-| [3. Estudo Técnico Preliminar (ETP)](#fase-3) | Lei 14.133, art. 6º, XX | 16 |
+| [3. Estudo Técnico Preliminar (ETP)](#fase-3) | Lei 14.133, art. 6º, XX | 15 |
 | [4. Gestão de riscos](#fase-4) | Lei 14.133, art. 18, X | 8 |
-| [5. Pesquisa de preços e estimativa da despesa](#fase-5) | Lei 14.133, art. 23 | 20 |
+| [5. Pesquisa de preços e estimativa da despesa](#fase-5) | Lei 14.133, art. 23 | 19 |
 | [6. Termo de Referência e Projeto Básico](#fase-6) | Lei 14.133, art. 6º, XXIII e XXV | 12 |
 | [7. Revisão do planejamento e análise jurídica](#fase-7) | Lei 14.133, art. 53 (controle prévio de legalidade) | 33 |
 | [8. Fase externa: edital, publicidade e sessão](#fase-8) | Lei 14.133, art. 17 (fases) | 22 |
@@ -88,10 +88,10 @@ Mais: [Temas transversais](#temas-transversais) · [Por tipo de objeto](#por-tip
 - [TRT-2 — Manual institucional de compras e licitações 2025-2027](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manual Institucional - Compras e Licitacoes - TRT 2a Regiao 2025-2027.md>)
 - [TJPI — Manual de licitações e contratos 2023-2024](<01_Normativos_Vigentes/06_TJPI/Manuais_e_Guias_Tecnicos/Manual de Licitacoes e Contratos TJPI (2023-2024).md>)
 - [TCE-SP — Licitações e contratos (manual básico)](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Licitações e contratos.md>)
-- [Perguntas e respostas sobre licitações e contratações](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/Perguntas e Respostas- Licitações e Contratações.md>)
-- [TCE-SC — Perguntas e respostas: licitações e contratos (2025)](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/TCE-SC – Perguntas e respostas- licitações e contratos (edição 1 - 2025).md>)
-- [TCE-SC — Referencial de licitações e contratos](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/Referencial_Licitacoes_Contratos_TCESC.md>)
-- [Apostila — aspectos gerais da Lei 14.133 (Jamil Manasfi)](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/Aspectos gerais da nova lei de licitações e contratos 14.133.21.md>)
+- [Perguntas e respostas sobre licitações e contratações](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manual Consultivo - Perguntas e Respostas sobre Licitacoes e Contratos Administrativos.md>)
+- [TCE-SC — Perguntas e respostas: licitações e contratos (2025)](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manual TCE-SC - Perguntas e Respostas sobre Licitacoes e Contratos Administrativos.md>)
+- [TCE-SC — Referencial de licitações e contratos](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Referencial de Riscos e Controles em Licitacoes e Contratos - TCE-SC.md>)
+- [Apostila — aspectos gerais da Lei 14.133 (Jamil Manasfi)](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Apostila Tecnica - Aspectos Gerais da Nova Lei de Licitacoes e Contratos 14133 - Jamil Manasfi.md>)
 - [Livro — NLLC esquematizada](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Livro - NLLC Esquematizada.md>) *(só local)*
 - [Quadro comparativo Lei 14.133 x Lei 8.666](<02_Jurisprudencia_e_Orientacoes/Quadro_Comparativo_Nova_Lei_14133_vs_8666.md>)
 
@@ -99,9 +99,9 @@ Mais: [Temas transversais](#temas-transversais) · [Por tipo de objeto](#por-tip
 
 - [TCE-MG — estudo temático de consultas sobre a Lei 14.133 (ago/2025)](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Estudo_Tematico_Agosto_2025____II.md>)
 - [CJF — enunciados do 2º Simpósio de Licitações e Contratos da Justiça Federal](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/Publicação - 2º Simpósio de Licitações e Contratos da Justiça Federal - Enunciados aprovados.md>)
-- [CGU — ementário de aquisições 2026](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/Publicação - cgu_ementarioaquisicoes_a4_2026.md>)
-- [Parecer AGU 00060/2024/DECOR](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/PARECER Nº 00060-2024-DECOR-CGU-AGU (1).md>)
-- [Parecer AGU (CONUNI) — uniformização de entendimento](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/Parecer1774358321.md>)
+- [CGU — ementário de aquisições 2026](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Ementario CGU - Ementario Jurisprudencial e Consultivo de Aquisicoes Publicas 2026.md>)
+- [Parecer AGU 00060/2024/DECOR](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Parecer AGU 00060.2024-DECOR - Orientacao Normativa e Uniformizacao em Licitacoes e Contratos.md>)
+- [Parecer AGU (CONUNI) — uniformização de entendimento](<01_Normativos_Vigentes/01_Federal/Acordaos_Pareceres_Orientacoes/Federal - Parecer Referencial 00001.2026 CONJUR-MS-CGU-AGU.md>)
 
 <a id="fase-1"></a>
 
@@ -142,10 +142,10 @@ Mais: [Temas transversais](#temas-transversais) · [Por tipo de objeto](#por-tip
 
 ### Manuais, guias e doutrina
 
-- [Portaria SEGES/ME 8.678/2021 — governança das contratações (texto integral)](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/PORTARIA SEGES_ME Nº 8.678, DE 19 DE JULHO DE 2021 — Portal de Compras do Governo Federal.md>)
-- [Enap — caderno de curso: planejamento e governança](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/Enap - Caderno de curso Nova lei de licitações - Planejamento e Governança.md>)
+- [Portaria SEGES/ME 8.678/2021 — governança das contratações (texto integral)](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Portaria SEGES-ME 8678.2021 - Governanca das Contratacoes Publicas Federais.md>)
+- [Enap — caderno de curso: planejamento e governança](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Caderno de Curso ENAP - Nova Lei de Licitacoes - Planejamento e Governanca.md>)
 - [Passo a passo do PGC (Planejamento e Gerenciamento de Contratações)](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/PassoapassoPGC.md>)
-- [MPPI — manual de mapeamento e melhoria de processos](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/Manual-de-Mapeamento-e-Melhoria-de-Processos-do-MPPI-1.md>)
+- [MPPI — manual de mapeamento e melhoria de processos](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manual MPPI - Mapeamento e Melhoria de Processos de Trabalho.md>)
 - [Compras.gov.br — tutorial Compras Executivo (jan/2026)](<04_Sistemas_e_Catalogos/Manuais_Sistemas_Oficiais/Compras.gov.br – Tutorial compras executivo (jan-2026).md>)
 
 ### Jurisprudência, pareceres e orientações
@@ -185,15 +185,14 @@ Mais: [Temas transversais](#temas-transversais) · [Por tipo de objeto](#por-tip
 - [MPPE — modelo de ETP, v5.0](<03_Modelos_e_Minutas/Modelos_MPPE/ETP - Estudo Tecnico Preliminar MPPE - Versao 5.0.md>)
 - [Prompt revisor de ETP (IA)](<00_Ferramentas_e_Scripts_Analise/Banco_de_Prompts/Prompt Revisor - ETP.md>)
 - [Checklist de auditoria do ETP](<00_Ferramentas_e_Scripts_Analise/Checklists_Auditoria/Checklist de Auditoria - ETP (Estudo Tecnico Preliminar).md>)
-- [E-BOX 01 — ETP para aquisições e serviços em geral](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/E-BOX 01 - ESTUDO TÉCNICO PRELIMINAR - AQUISIÇÕES - SERVIÇOS EM GERAL.md>)
-- [E-BOX 02 — ETP para obras e serviços de engenharia](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/E-BOX 02 - ESTUDO TÉCNICO PRELIMINAR - OBRAS E SERVIÇOS DE ENGENHARIA.md>)
-- [E-BOX 03 — ETP para TIC](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/E-BOX 03 - ESTUDO TÉCNICO PRELIMINAR TIC.md>)
+- [E-BOX 01 — ETP para aquisições e serviços em geral](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Guia E-BOX 01 - Estudo Tecnico Preliminar para Aquisicoes e Servicos em Geral - Hamilton Bonatto.md>)
+- [E-BOX 02 — ETP para obras e serviços de engenharia](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Guia E-BOX 02 - Estudo Tecnico Preliminar para Obras e Servicos de Engenharia - Hamilton Bonatto.md>)
+- [E-BOX 03 — ETP para TIC](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Guia E-BOX 03 - Estudo Tecnico Preliminar para Solucoes de TIC - Hamilton Bonatto.md>)
 
 ### Manuais, guias e doutrina
 
-- [UFJF — publicação sobre ETP](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/Publicação - ETP - UFJF.md>)
-- [TCC — ETP: o dilema entre necessidade e solução](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/TCC - ETP - O Dilema entre Necessidade e Solução.md>)
-- [Zênite — como descrever a necessidade no planejamento](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/Planejamento_ fundamento legal par.md>)
+- [UFJF — publicação sobre ETP](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Guia Pratico UFJF - Elaboracao de Estudo Tecnico Preliminar - ETP.md>)
+- [TCC — ETP: o dilema entre necessidade e solução](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Guia E-BOX 01 - Estudo Tecnico Preliminar para Aquisicoes e Servicos em Geral - Hamilton Bonatto.md>)
 - [TCE-PR — cartilha de ETP para obras e serviços de engenharia](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/TCE-PR – Cartilha de Obras e Serviços de Engenharia- estudo técnico preliminar.md>)
 - [PMT/SEMA — manual de planejamento da contratação (2023)](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manual - Manual de Planejamento da Contratação-SEMA_PMT-2023.md>)
 - [Apostila de capacitação em contratações — módulo 01](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Apostila_Capacitacao_Contratacoes_Modulo_01.md>)
@@ -219,11 +218,11 @@ Mais: [Temas transversais](#temas-transversais) · [Por tipo de objeto](#por-tip
 
 ### Manuais, guias e doutrina
 
-- [Palestra — inventário de riscos e controles nas contratações](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/Palestra - Inventário de Riscos e Controles nas contratações públicas.md>)
+- [Palestra — inventário de riscos e controles nas contratações](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Slides - 50 Erros mais Comuns em Licitações.md>)
 
 ### Jurisprudência, pareceres e orientações
 
-- [Parecer AGU 00006/2025/GAB/DECOR](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/PARECER n. 00006-2025-GAB-DECOR-CGU-AGU.md>)
+- [Parecer AGU 00006/2025/GAB/DECOR](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Parecer AGU 00006.2025-GAB-DECOR - Analise de Riscos e Matriz de Riscos Contratuais.md>)
 
 > **Lacunas:** Não há manual de gestão de riscos do MPPI nem do Estado; só a Portaria SEAD e o Ato 1.480.
 
@@ -244,7 +243,7 @@ Mais: [Temas transversais](#temas-transversais) · [Por tipo de objeto](#por-tip
 
 - [Banco de Preços — cotação nova e rápida (Plus)](<04_Sistemas_e_Catalogos/Manuais_Sistemas_Oficiais/Banco_de_Precos/Banco de Precos - Passo a Passo Cotacao Nova e Rapida Plus.md>)
 - [Banco de Preços — manual BP Plus](<04_Sistemas_e_Catalogos/Manuais_Sistemas_Oficiais/Banco_de_Precos/Manual - BPPlus.md>)
-- [Banco de Preços — convidar fornecedores, log e TR](<04_Sistemas_e_Catalogos/Manuais_Sistemas_Oficiais/Banco_de_Precos/Passo a Passo - Como Convidar Fornecedores + LOG + TR.md>)
+- [Banco de Preços — convidar fornecedores, log e TR](<04_Sistemas_e_Catalogos/Manuais_Sistemas_Oficiais/Banco_de_Precos/Banco de Precos - Passo a Passo Como Convidar Fornecedores e Anexar TR.md>)
 - [Banco de Preços — cotação nova e rápida com lotes (Plus)](<04_Sistemas_e_Catalogos/Manuais_Sistemas_Oficiais/Banco_de_Precos/Passo a Passo - Cotação Nova e Rápida (+lotes) (Plus).md>)
 - [Banco de Preços — cotação nova e rápida (Standard)](<04_Sistemas_e_Catalogos/Manuais_Sistemas_Oficiais/Banco_de_Precos/Passo a Passo - Cotação Nova e Rápida (Standard).md>)
 - [Compras.gov.br — copiar e compartilhar cotações no Pesquisa de Preço](<04_Sistemas_e_Catalogos/Manuais_Sistemas_Oficiais/Compras.gov.br – Tutorial de como copiar e compartilhar cotações  no Pesquisa de Preço.md>)
@@ -252,18 +251,14 @@ Mais: [Temas transversais](#temas-transversais) · [Por tipo de objeto](#por-tip
 ### Manuais, guias e doutrina
 
 - [Curso Banco de Preços — pesquisa de preços](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Curso Banco de Preços - Pesquisa de Preços.md>)
-- [Caderno de Logística — pesquisa de preços (2017)](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/Federal - Caderno de Logistica - Pesquisa de Preços - 2017.md>)
+- [Caderno de Logística — pesquisa de preços (2017)](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Caderno de Logistica - Pesquisa de Precos nas Contratacoes Publicas - Governo Federal.md>)
 - [Pesquisa de preços nas contratações públicas](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Pesquisa de Preços Nas contratações Publicas 3.md>)
-- [Curso — TR e pesquisa de preços, parte 1](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/Curso Elaboração do Termo de Referência e Pesquisa de Preços nas Contratações Públicas - Parte 01.md>)
-- [Curso — TR e pesquisa de preços, parte 2](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/Curso Elaboração do Termo de Referência e Pesquisa de Preços nas Contratações Públicas - Parte 02.md>)
+- [Curso — TR e pesquisa de preços, parte 1](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Curso Pratico - Elaboracao de Termo de Referencia e Pesquisa de Precos - Parte 01.md>)
+- [Curso — TR e pesquisa de preços, parte 2](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Curso Pratico - Elaboracao de Termo de Referencia e Pesquisa de Precos - Parte 02.md>)
 - [Apresentação — da especificação do objeto ao orçamento estimado](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Apresentação - Da Especificação do Objeto ao Orçamento Estimado.md>)
-- [Artigo — pesquisa de preços concomitante à seleção na dispensa eletrônica](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/Artigo - A Pesquisa de Preços Concomitante à Seleção da Proposta na Dispensa Eletrônica..md>)
+- [Artigo — pesquisa de preços concomitante à seleção na dispensa eletrônica](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Artigo Doutrinario - Pesquisa de Precos Concomitante a Selecao da Proposta na Dispensa Eletronica.md>)
 - [Material de apoio — pesquisa de preços no Compras.gov.br (Jamil Manasfi)](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Operacionalização do Sistema - Jamil Manasfi.md>)
-- [CGU — guia para identificar, quantificar e mitigar superfaturamento](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/Controladoria-Geral da União- Guia referencial para identificação, quantificaçao e mitigação de superfaturame.md>)
-
-### Jurisprudência, pareceres e orientações
-
-- [TCE-SC — Nota Técnica TC-19/2026](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/TCE-SC - NOTA TÉCNICA Nº TC-19-2026.md>)
+- [CGU — guia para identificar, quantificar e mitigar superfaturamento](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Guia Referencial CGU - Identificacao Quantificacao e Mitigacao de Superfaturamento.md>)
 
 > **Lacunas:** Falta material atualizado: o Caderno de Logística é de 2017; não há o caderno de pesquisa de preços de 2024 nem o manual do STJ.
 
@@ -335,8 +330,8 @@ Mais: [Temas transversais](#temas-transversais) · [Por tipo de objeto](#por-tip
 
 ### Jurisprudência, pareceres e orientações
 
-- [Parecer AGU 00003/2025/GAB/CGU](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/PARECER n. 00003-2025-GAB-CGU-CGU-AGU.md>)
-- [Parecer AGU 00196/2024/E-CJU/SCOM](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/PARECER n. 00196-2024-E-CJU-SCOM-CGU-AGU.md>)
+- [Parecer AGU 00003/2025/GAB/CGU](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Parecer AGU 00003.2025-GAB-CGU - Atuacao do Orgao Consultivo e Segregacao de Funcoes.md>)
+- [Parecer AGU 00196/2024/E-CJU/SCOM](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Parecer AGU 00196.2024-CJU-SCOM - Aquisicao de Bens e Servicos Comuns com Criterio Menor Preco.md>)
 - [TJPI — justificativa (parecer do agente)](<01_Normativos_Vigentes/06_TJPI/Acordaos_Pareceres_Orientacoes/SEI_TJPI - 7071569 - Justificativa (Parecer Agente).md>)
 
 <a id="fase-8"></a>
@@ -377,7 +372,7 @@ Mais: [Temas transversais](#temas-transversais) · [Por tipo de objeto](#por-tip
 
 ### Jurisprudência, pareceres e orientações
 
-- [CGU — avaliação do orçamento sigiloso e dos modos de disputa](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/Relatório - CGU – Relatório de Avaliação- impacto do uso do orçamento sigiloso e dos modos de disputa.md>)
+- [CGU — avaliação do orçamento sigiloso e dos modos de disputa](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Relatorio de Avaliacao CGU - Impacto do Orcamento Sigiloso e dos Modos de Disputa.md>)
 
 <a id="fase-9"></a>
 
@@ -402,11 +397,11 @@ Mais: [Temas transversais](#temas-transversais) · [Por tipo de objeto](#por-tip
 
 ### Jurisprudência, pareceres e orientações
 
-- [Parecer AGU 00002/2025/CNLCA](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/PARECER Nº 00002-2025-CNLCA-CGU-AGU.md>)
-- [Parecer AGU 00017/2024/CNLCA](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/PARECER Nº 00017-2024-CNLCA-CGU-AGU.md>)
-- [Parecer AGU 00019/2024/CNLCA](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/PARECER Nº 00019-2024-CNLCA-CGU-AGU.md>)
-- [Parecer AGU 00006/2025/CNLCA](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/PARECER n. 00006-2025CNLCA-CGU-AGU.md>)
-- [Estudo temático — empresas em recuperação judicial](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/estudo_tematico_recuperacao_judicial.md>)
+- [Parecer AGU 00002/2025/CNLCA](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Parecer AGU 00002.2025-CNLCA - Juntada de Documentos Apos Habilitacao e Diligencias Sanadoras.md>)
+- [Parecer AGU 00017/2024/CNLCA](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Parecer AGU 00017.2024-CNLCA - Exigencias e Indices de Habilitacao Economico-Financeira.md>)
+- [Parecer AGU 00019/2024/CNLCA](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Parecer AGU 00019.2024-CNLCA - Criterios para Exigencia de Atestados de Capacidade Tecnica.md>)
+- [Parecer AGU 00006/2025/CNLCA](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Parecer AGU 00006.2025-CNLCA - Participacao de Cooperativas e ME-EPP em Licitacoes.md>)
+- [Estudo temático — empresas em recuperação judicial](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Estudo Tematico - Participacao de Empresas em Recuperacao Judicial em Licitacoes Publicas.md>)
 
 <a id="fase-10"></a>
 
@@ -416,8 +411,8 @@ Mais: [Temas transversais](#temas-transversais) · [Por tipo de objeto](#por-tip
 
 ### Manuais, guias e doutrina
 
-- [Artigo — a fase recursal na Lei 14.133 (comparativo com 8.666, 10.520 e 12.462)](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/Artigo - A fase recursal na nova Lei de Licitaçõesuma análise comparativa com as Leis n°8.66693, 10.5202002 e 12.462.md>)
-- [Artigo — impugnações, esclarecimentos e recursos nas dispensas](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/Artigo - Das Impugnações, dos Pedidos de Esclarecimento e dos Recursos nas Dispensas de Licitação.md>)
+- [Artigo — a fase recursal na Lei 14.133 (comparativo com 8.666, 10.520 e 12.462)](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Artigo Doutrinario - A Fase Recursal na Nova Lei de Licitacoes - Analise Comparativa.md>)
+- [Artigo — impugnações, esclarecimentos e recursos nas dispensas](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Artigo Doutrinario - Impugnacoes Pedidos de Esclarecimento e Recursos nas Dispensas.md>)
 - [Compras.gov.br — eventos de anulação, suspensão e revogação](<04_Sistemas_e_Catalogos/Manuais_Sistemas_Oficiais/Compras.gov.br - Tutorial de eventos de anulação, suspensão e revogação.md>)
 
 > **Lacunas:** Fase mais fraca da base: só dois artigos e um tutorial. Falta modelo do MPPI de decisão de recurso e de termo de homologação.
@@ -435,12 +430,12 @@ Mais: [Temas transversais](#temas-transversais) · [Por tipo de objeto](#por-tip
 
 ### Modelos, roteiros e checklists
 
-- [MPPI — POP art. 75, IX (empresa pública)](<01_Normativos_Vigentes/04_CNMP/POP's Contratação Direta/POP - Contratacao Direta Art 75 IX - Empresa Publica.md>)
-- [MPPI — POP inexigibilidade art. 74, I (exclusividade)](<01_Normativos_Vigentes/04_CNMP/POP's Contratação Direta/POP - Contratacao Direta Inexigibilidade Art 74 I - Exclusividade.md>)
-- [MPPI — POP inexigibilidade art. 74, II (setor artístico)](<01_Normativos_Vigentes/04_CNMP/POP's Contratação Direta/POP - Contratacao Direta Inexigibilidade Art 74 II - Setor Artistico.md>)
-- [MPPI — POP inexigibilidade art. 74, III (cursos e palestras)](<01_Normativos_Vigentes/04_CNMP/POP's Contratação Direta/POP - Contratacao Direta Inexigibilidade Art 74 III - Cursos Treinamentos e Palestras.md>)
-- [MPPI — POP dispensa eletrônica](<01_Normativos_Vigentes/04_CNMP/POP's Contratação Direta/POP - Contratacao por Dispensa Eletronica.md>)
-- [MPPI — POP dispensa de licitação (POP-CLC-02)](<01_Normativos_Vigentes/04_CNMP/POP's Contratação Direta/POP - Contratacao por Dispensa de Licitacao (POP-CLC-02, rev. 05.02.2025).md>)
+- [MPPI — POP art. 75, IX (empresa pública)](<01_Normativos_Vigentes/03_MPPI/POP's Contratação Direta/POP - Contratacao Direta Art 75 IX - Empresa Publica.md>)
+- [MPPI — POP inexigibilidade art. 74, I (exclusividade)](<01_Normativos_Vigentes/03_MPPI/POP's Contratação Direta/POP - Contratacao Direta Inexigibilidade Art 74 I - Exclusividade.md>)
+- [MPPI — POP inexigibilidade art. 74, II (setor artístico)](<01_Normativos_Vigentes/03_MPPI/POP's Contratação Direta/POP - Contratacao Direta Inexigibilidade Art 74 II - Setor Artistico.md>)
+- [MPPI — POP inexigibilidade art. 74, III (cursos e palestras)](<01_Normativos_Vigentes/03_MPPI/POP's Contratação Direta/POP - Contratacao Direta Inexigibilidade Art 74 III - Cursos Treinamentos e Palestras.md>)
+- [MPPI — POP dispensa eletrônica](<01_Normativos_Vigentes/03_MPPI/POP's Contratação Direta/POP - Contratacao por Dispensa Eletronica.md>)
+- [MPPI — POP dispensa de licitação (POP-CLC-02)](<01_Normativos_Vigentes/03_MPPI/POP's Contratação Direta/POP - Contratacao por Dispensa de Licitacao (POP-CLC-02, rev. 05.02.2025).md>)
 - [MPPI — roteiro de dispensa (lista de documentos 2024)](<03_Modelos_e_Minutas/Modelos_MPPI_CLC/Roteiros_CLC/Roteiro - Dispensa (lista de documentos 2024).md>)
 - [MPPI — roteiro de dispensa eletrônica](<03_Modelos_e_Minutas/Modelos_MPPI_CLC/Roteiros_CLC/Roteiro - Dispensa Eletronica.md>)
 - [MPPI — roteiro de dispensa sem disputa](<03_Modelos_e_Minutas/Modelos_MPPI_CLC/Roteiros_CLC/Roteiro - Dispensa sem Disputa.md>)
@@ -472,18 +467,18 @@ Mais: [Temas transversais](#temas-transversais) · [Por tipo de objeto](#por-tip
 - [Compras.gov.br — manual operacional da dispensa eletrônica](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manual Operacional - Dispensa Eletronica no Compras.gov.br - Visao Governo.md>)
 - [MPBA — cadastro de dispensas e inexigibilidades no Compras.gov](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manual MPBA - Cadastro no Compras.gov para Dispensas e Inexigibilidades.md>)
 - [Governo de SP — apresentação sobre contratação direta](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Apresentação - Contratação Direta - GOVSP.md>)
-- [Apostila — contratação direta e dispensa eletrônica com IA (Jamil)](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/Apostila - CURSO DE CONTRATAÇÃO DIRETA E DISPENSA ELETRÔNICA COM IA - JAMIL - IINEX_ocred.md>)
-- [Artigo — as quatro formatações da dispensa por valor](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/Artigo - As Quatro Formatações da Dispensa por Valor nos Termos da NLLC e as Regulamentações Pertinentes.md>)
-- [Artigo — dispensa de licitação na Lei 14.133 (Leonardo Mota)](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/Artigo - Leonardo Mota - Dispensa de licitação na nova Lei de Licitações e Contratos Administrativos.md>)
-- [Artigo — sem singularidade não há inexigibilidade](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/Artigo - Sem Singularidade não há Inexigibilidade.md>)
-- [Artigo — propostas inferiores e inexigibilidade de notório especialista](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/Artigo - A existência de prop inferiores de outros profis impede a contratação por inex de not especialista.md>)
-- [Zênite — dispensa da divulgação do aviso na dispensa por valor](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/Zênite - É possível que a Administração dispense a divulgação do aviso noscasos de dispensa em razão do valor.md>)
-- [Zênite Fácil — dispensa eletrônica](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/Zênite Fácil - Dispensa Eletrônica.md>)
-- [Nota Técnica 5/2024 — dispensa eletrônica](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/Nota Técnica 5-2024 (Dispensa Licitação Eletrônica).md>)
+- [Apostila — contratação direta e dispensa eletrônica com IA (Jamil)](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Apostila Especializada - Curso de Contratacao Direta e Dispensa Eletronica com IA - Jamil Manasfi.md>)
+- [Artigo — as quatro formatações da dispensa por valor](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Artigo Doutrinario - As Quatro Formatacoes da Dispensa por Valor na NLLC.md>)
+- [Artigo — dispensa de licitação na Lei 14.133 (Leonardo Mota)](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Artigo Doutrinario - Leonardo Mota - Dispensa de Licitacao na Nova Lei de Licitacoes.md>)
+- [Artigo — sem singularidade não há inexigibilidade](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Artigo Doutrinario - Sem Singularidade nao ha Inexigibilidade.md>)
+- [Artigo — propostas inferiores e inexigibilidade de notório especialista](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Artigo Doutrinario - Existencia de Propostas Menores Impede Inexigibilidade por Notoria Especializacao.md>)
+- [Zênite — dispensa da divulgação do aviso na dispensa por valor](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Orientacao Zenite - Dispensa de Divulgacao de Aviso nas Dispensas por Valor.md>)
+- [Zênite Fácil — dispensa eletrônica](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Cartilha Zenite Facil - Dispensa Eletronica na Pratica.md>)
+- [Nota Técnica 5/2024 — dispensa eletrônica](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Nota Tecnica 05.2024 - Procedimentos e Fluxo da Dispensa Eletronica.md>)
 - [Orientações sobre as evoluções da compra direta](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/OrientaessobreasEvoluesdaCompraDireta.md>)
 - [UNIFESPA — fluxo das contratações diretas para capacitação](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/UNIFESPA - Fluxo Descritivo das Contratações Diretas para ações de Desenv. e Capacitação.md>)
-- [Decreto Municipal (Teresina) 25.530/2024 — contratação direta](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/Decreto PMT 25530.2024 - Regula-o-procedimento-de-contratacao-direta.md>)
-- [CGU — guia de contratações em calamidade pública (MP 1.221)](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/Guia Prático de Contratações em Situações de Calamidade Pública da CGU – Conforme a Medida Provisória nº 1.22.md>)
+- [Decreto Municipal (Teresina) 25.530/2024 — contratação direta](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Decreto Municipal PMT 25530.2024 - Regulamentacao da Contratacao Direta.md>)
+- [CGU — guia de contratações em calamidade pública (MP 1.221)](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Guia Pratico CGU - Contratacoes em Situacoes de Calamidade Publica - MP 1221.md>)
 - [PGE-PI — publicação da lista de contratações de pequeno valor no DOE](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Publicacao PGE-PI - Lista de Contratacoes de Pequeno Valor no DOE.md>)
 
 ### Jurisprudência, pareceres e orientações
@@ -497,10 +492,10 @@ Mais: [Temas transversais](#temas-transversais) · [Por tipo de objeto](#por-tip
 - [MJR 92 — aprovação](<02_Jurisprudencia_e_Orientacoes/MJRs_MPPI/MJR nº 922024APPL - Dispensa de Licitação - Art 75 I e II/MJR 92 - Aprovação MJR.md>)
 - [MJR 92 — análise preliminar de conformidade](<02_Jurisprudencia_e_Orientacoes/MJRs_MPPI/MJR nº 922024APPL - Dispensa de Licitação - Art 75 I e II/MJR 92 - Analise Preliminar de Conformidade.md>)
 - [MJR 92 — análise conclusiva de conformidade](<02_Jurisprudencia_e_Orientacoes/MJRs_MPPI/MJR nº 922024APPL - Dispensa de Licitação - Art 75 I e II/MJR 92 - Analise Conclusiva de Conformidade.md>)
-- [Parecer PGM 463/2024 — dispensa de licitação](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/PARECER Nº 4632024-PLCCAPGM - Contratação direta por dispensa de licitação.md>)
-- [Parecer AGU 00023/2025/CGAQ](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/PARECER Nº 00023-2025-CGAQ-BSB-SCGP-CGU-AGU (1).md>)
-- [Parecer AGU 00860/2023/E-CJU/SCOM](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/PARECER n. 00860-2023-ADV-E-CJU-SCOM-CGU-AGU.md>)
-- [Parecer AGU 00019/2025/DECOR](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/PARECER n. 00019-2025-DECOR-CGU-AGU.md>)
+- [Parecer PGM 463/2024 — dispensa de licitação](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Parecer PGM 463.2024 - Instrucao e Conformidade da Contratacao Direta por Dispensa.md>)
+- [Parecer AGU 00023/2025/CGAQ](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Parecer AGU 00023.2025-CGAQ - Parecer Padronizado em Contratacoes Diretas.md>)
+- [Parecer AGU 00860/2023/E-CJU/SCOM](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Parecer AGU 00860.2023-CJU-SCOM - Contratacao por Inexigibilidade de Notoria Especializacao.md>)
+- [Parecer AGU 00019/2025/DECOR](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Parecer AGU 00019.2025-DECOR - Fracionamento de Despesa e Limites do Art 75.md>)
 
 <a id="fase-12"></a>
 
@@ -522,9 +517,9 @@ Mais: [Temas transversais](#temas-transversais) · [Por tipo de objeto](#por-tip
 
 ### Modelos, roteiros e checklists
 
-- [MPPI — POP contratação por ARP própria (POP-CLC-05)](<01_Normativos_Vigentes/04_CNMP/POP's Contratação Direta/POP - Contratacao por ARP Propria (POP-CLC-05, rev. 05.02.2025).md>)
-- [MPPI — POP adesão a ARP (carona)](<01_Normativos_Vigentes/04_CNMP/POP's Contratação Direta/POP - Contratacao por Adesao a Ata de Registro de Precos Carona.md>)
-- [MPPI — POP prorrogação de vigência de ARP](<01_Normativos_Vigentes/04_CNMP/POP's Contratação Direta/POP - Prorrogacao de Vigencia de Ata de Registro de Precos.md>)
+- [MPPI — POP contratação por ARP própria (POP-CLC-05)](<01_Normativos_Vigentes/03_MPPI/POP's Contratação Direta/POP - Contratacao por ARP Propria (POP-CLC-05, rev. 05.02.2025).md>)
+- [MPPI — POP adesão a ARP (carona)](<01_Normativos_Vigentes/03_MPPI/POP's Contratação Direta/POP - Contratacao por Adesao a Ata de Registro de Precos Carona.md>)
+- [MPPI — POP prorrogação de vigência de ARP](<01_Normativos_Vigentes/03_MPPI/POP's Contratação Direta/POP - Prorrogacao de Vigencia de Ata de Registro de Precos.md>)
 - [MPPI — roteiro de adesão a ARP no Compras.gov](<03_Modelos_e_Minutas/Modelos_MPPI_CLC/Roteiros_CLC/Roteiro - Adesao a ARP no Compras.gov.md>)
 - [MPPI — roteiro de contratação por ARP](<03_Modelos_e_Minutas/Modelos_MPPI_CLC/Roteiros_CLC/Roteiro - Contratacao por ARP.md>)
 - [MPPI — roteiro de liberação de ARP para adesão](<03_Modelos_e_Minutas/Modelos_MPPI_CLC/Roteiros_CLC/Roteiro - Liberacao de ARP para Adesao.md>)
@@ -543,8 +538,8 @@ Mais: [Temas transversais](#temas-transversais) · [Por tipo de objeto](#por-tip
 
 ### Manuais, guias e doutrina
 
-- [Artigo — como formalizar a prorrogação de vigência de ARP](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/Artigo - Como formalizar a prorrogação da vigência de uma ARP.md>)
-- [Zênite Fácil — prorrogação de ARP e renovação de quantitativos](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/Zênite Fácil - NOVA LEI DE LICITAÇÕES - PRORROGAÇÃO DE VIGÊNCIA DA ATA DE REGISTRO DE PREÇOS E A RENOVAÇÃO DO.md>)
+- [Artigo — como formalizar a prorrogação de vigência de ARP](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Artigo Doutrinario - Como Formalizar a Prorrogacao da Vigencia de uma ARP.md>)
+- [Zênite Fácil — prorrogação de ARP e renovação de quantitativos](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Cartilha Zenite Facil - Prorrogacao de Vigencia da ARP e Renovacao de Quantitativos.md>)
 - [Compras.gov.br — eventos de alteração no credenciamento](<04_Sistemas_e_Catalogos/Manuais_Sistemas_Oficiais/Compras.gov.br – Eventos de alteração em procedimento auxiliar de credenciamento - mar-2025.md>)
 
 ### Jurisprudência, pareceres e orientações
@@ -553,8 +548,8 @@ Mais: [Temas transversais](#temas-transversais) · [Por tipo de objeto](#por-tip
 - [TCE-PI — decisão plenária (expediente 30/2025)](<01_Normativos_Vigentes/02_Estadual_PI/Acordaos_Pareceres_Orientacoes/TCE Expediente 30.2025 - DECISAO_SESSAO-PLENARIA-07-DE-24.04.2025.md>)
 - [Acórdão TCU 547/2026-Plenário — auditoria em SRP e PNCP](<01_Normativos_Vigentes/01_Federal/Acordaos_Pareceres_Orientacoes/Acórdão TCU nº 547-2026 - Plenário - Auditoria SRP e PNCP.md>)
 - [Nota Recomendatória Conjunta 01/2025 — adesão a ARP (carona)](<01_Normativos_Vigentes/01_Federal/Acordaos_Pareceres_Orientacoes/Federal - Nota Recomendatoria Conjunta 01.2025 - Adesao a ARP Carona.md>)
-- [Parecer AGU 00453/2024 — renovação de quantitativos na prorrogação da ARP](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/AGU – Parecer nº 00453-2024 – Renovação de quantitativos em caso de prorrogação da ata de registro de preços.md>)
-- [Parecer AGU 00261/2024/E-CJU/SCOM](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/PARECER n. 00261-2024-E-CJU-SCOM-CGU-AGU.md>)
+- [Parecer AGU 00453/2024 — renovação de quantitativos na prorrogação da ARP](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Parecer AGU 00453.2024 - Renovacao de Quantitativos na Prorrogacao de ARP.md>)
+- [Parecer AGU 00261/2024/E-CJU/SCOM](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Parecer AGU 00261.2024-CJU-SCOM - Adesao a Ata de Registro de Precos Carona e Requisitos.md>)
 - [Parecer AGU 00004/2024/CGEST — vitrine de compras e credenciamento](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/PARECER Nº 00004-2024-CGEST-CGU-AGU.md>)
 - [MPPI — MJR 86/2025 (adesão a ARP)](<02_Jurisprudencia_e_Orientacoes/MJRs_MPPI/MJR nº 862025APPL - Adesão a ARP/MJR 86 - Adesão por ARP.md>)
 - [MJR 86 — análise preliminar de conformidade](<02_Jurisprudencia_e_Orientacoes/MJRs_MPPI/MJR nº 862025APPL - Adesão a ARP/MJR 86 - Análise Preliminar de Conformidade.md>)
@@ -599,10 +594,10 @@ Mais: [Temas transversais](#temas-transversais) · [Por tipo de objeto](#por-tip
 - [TCE-PI — cartilha do fiscal de contratos](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Cartilha do Fiscal de Contratos - TCE-PI.md>)
 - [IRB/Ibraop — manual de auditoria de obras públicas e serviços de engenharia (2018, anterior à Lei 14.133)](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/Manual IRB-Ibraop - Auditoria de Obras Publicas e Servicos de Engenharia (2018).md>)
 - [Compras.gov.br — convocação de remanescentes (art. 90)](<Manual completo - Convocação de Remanescentes.md>)
-- [Contratos.gov.br — manual operacional de gestão e fiscalização](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/Contratos.gov – Manual operacional de gestão e fiscalização contratual.md>)
+- [Contratos.gov.br — manual operacional de gestão e fiscalização](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manual Operacional - Gestao e Fiscalizacao Contratual no Sistema Contratos.gov.br.md>)
 - [Contratos.gov.br — manual da nova versão 2.14.0 (set/2026, provisório)](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/TEMPORÁRIO Manual Contratos Gov.br - Nova Versão - 2.14.0 – set.2026.md>)
 - [Contratos.gov.br — perfil fornecedor](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manual Operacional - Contratos.gov.br - Perfil Fornecedor.md>)
-- [Contratos.gov.br — alteração de documento hábil](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/tutorial_dez.25_AlteraodeDocumentoHbilnoSistemaContratosGov.br.md>)
+- [Contratos.gov.br — alteração de documento hábil](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Tutorial Operacional - Alteracao de Documento Habil no Sistema Contratos.gov.br.md>)
 - [Material de apoio — operação do Contratos.gov.br (Vanessa Ventura)](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Operacionalização do Sistema - Vanessa Ventura.md>)
 
 ### Jurisprudência, pareceres e orientações
@@ -633,13 +628,13 @@ Mais: [Temas transversais](#temas-transversais) · [Por tipo de objeto](#por-tip
 
 ### Manuais, guias e doutrina
 
-- [Orientação técnica — reequilíbrio econômico-financeiro](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/ORIENTACAO-TECNICA-REEQUILIBRIO-ECONOMICO-FINANCEIRO.md>)
+- [Orientação técnica — reequilíbrio econômico-financeiro](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Orientacao Tecnica - Reequilibrio Economico-Financeiro Contratual.md>)
 
 ### Jurisprudência, pareceres e orientações
 
-- [Parecer AGU 00004/2025/CNLCA](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/PARECER n. 00004-2025-CNLCA-CGU-AGU.md>)
-- [Parecer AGU 00005/2025/CNLCA](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/PARECER Nº 00005-2025-CNLCA-CGU-AGU.md>)
-- [Parecer AGU 00005/2025/DECOR](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/PARECER n. 00005-2025-DECOR-CGU-AGU.md>)
+- [Parecer AGU 00004/2025/CNLCA](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Parecer AGU 00004.2025-CNLCA - Reajuste e Repactuacao Contratual na Lei 14133.md>)
+- [Parecer AGU 00005/2025/CNLCA](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Parecer AGU 00005.2025-CNLCA - Prorrogacao de Vigencia Contratual e ON 65 em Contratacoes Diretas.md>)
+- [Parecer AGU 00005/2025/DECOR](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Parecer AGU 00005.2025-DECOR - Prorrogacao de Vigencia em Contratos Continuados e ON 65.md>)
 - [MPPI — MJR 56/2025 (substituição de marca em contrato ou ARP)](<02_Jurisprudencia_e_Orientacoes/MJRs_MPPI/MJR 56 - Pedido de Substituição de Marca.md>)
 - [MJR 56 — análise preliminar de conformidade](<02_Jurisprudencia_e_Orientacoes/MJRs_MPPI/MJR nº 562025APPL - Troca de Marca Contrato ou ARP/MJR 56 - Análise Preliminar de Conformidade.md>)
 - [MJR 56 — análise conclusiva de conformidade](<02_Jurisprudencia_e_Orientacoes/MJRs_MPPI/MJR nº 562025APPL - Troca de Marca Contrato ou ARP/MJR 56 - Análise Conclusiva de Conformidade.md>)
@@ -657,15 +652,15 @@ Mais: [Temas transversais](#temas-transversais) · [Por tipo de objeto](#por-tip
 
 ### Modelos, roteiros e checklists
 
-- [Fluxograma dos atos para aplicação de sanções contratuais](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/FLUXOGRAMA ATOS PARA A APLICAÇÃO DE SANÇÕES CONTRATUAIS (1) - Copia.md>)
+- [Fluxograma dos atos para aplicação de sanções contratuais](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Fluxograma Operacional - Atos para Aplicacao de Sancoes Contratuais.md>)
 
 ### Manuais, guias e doutrina
 
-- [Capítulo de livro — tipologia de fraudes em licitação](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/Livro - Aula 002 - PDFL -  (Capítulo Livro) TIPOLOGIA DE FRAUDES EM LICITAÇÃO.md>)
+- [Capítulo de livro — tipologia de fraudes em licitação](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manual Doutrinario - Tipologia de Fraudes em Licitacoes e Mecanismos de Prevencao.md>)
 
 ### Jurisprudência, pareceres e orientações
 
-- [Parecer 00002/2022/CPLC — dosimetria da penalidade contratual](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/PARECERn000022022CPLCdosimetriapenalidadecontratual.md>)
+- [Parecer 00002/2022/CPLC — dosimetria da penalidade contratual](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Parecer AGU 00002.2022-CPLC - Dosimetria e Aplicacao de Penalidades Contratuais.md>)
 
 > **Lacunas:** Falta regulamento de sanções do MPPI e um manual de sanções (por exemplo, o do ES).
 
@@ -748,17 +743,17 @@ Mais: [Temas transversais](#temas-transversais) · [Por tipo de objeto](#por-tip
 
 ### Auditoria e boas práticas
 
-- [Nota Técnica Conjunta Atricon-IRB 01/2026](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/NOTA TÉCNICA CONJUNTA ATRICON-IRB Nº 01-2026.md>)
+- [Nota Técnica Conjunta Atricon-IRB 01/2026](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Nota Tecnica Conjunta ATRICON-IRB 01.2026 - Diretrizes para Controle e Transparencia.md>)
 - [ISSAI 100 — princípios fundamentais de auditoria do setor público](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Norma Internacional ISSAI 100 - Principios Fundamentais de Auditoria do Setor Publico.md>)
 - [Slides — 50 erros mais comuns em licitações](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Slides - 50 Erros mais Comuns em Licitações.md>)
-- [TCE-RS — conclusões técnicas sobre a nova lei para a fiscalização](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/TCE-RS – Conclusões Técnicas da Comissão de Estudos da Nova Lei de Licitações e Contratos para a Fiscalização.md>)
+- [TCE-RS — conclusões técnicas sobre a nova lei para a fiscalização](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Estudo Tecnico TCE-RS - Conclusoes da Comissao da Nova Lei de Licitacoes para Fiscalizacao.md>)
 
 ### Inteligência artificial aplicada
 
 - [Prompts para NotebookLM](<00_Ferramentas_e_Scripts_Analise/Banco_de_Prompts/Prompts - Notebook LM.md>)
 - [Prompts — apresentação e descrição do cenário](<00_Ferramentas_e_Scripts_Analise/Banco_de_Prompts/Prompts - Apresentacao e Descricao do Cenario.md>)
 - [Governo Digital — guia prático de prompt e pesquisa com IA](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Guia Pratico de Prompt e Pesquisa com IA para Servidores Publicos - Governo Digital.md>)
-- [IA generativa no serviço público](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/ia-generativa-no-servico-publico.md>)
+- [IA generativa no serviço público](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Guia Conjunto MF-MGI - Inteligencia Artificial Generativa no Servico Publico.md>)
 - [Zênite — 5 erros com IA nas contratações públicas](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Cartilha Zenite - 5 Erros que Voce Nao Pode Cometer com IA nas Contratacoes Publicas.md>)
 - [Slides — IA aplicada nas licitações](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Slides - IA Aplicada nas Licitações.md>)
 - [Palestra — aplicações e limitações de IA no controle externo](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Palestra Tecnica - Aplicacoes e Limitacoes de Inteligencia Artificial no Controle Externo.md>)
@@ -792,16 +787,16 @@ Mais: [Temas transversais](#temas-transversais) · [Por tipo de objeto](#por-tip
 - [IN SEGES 05/2017 — serviços terceirizados](<01_Normativos_Vigentes/01_Federal/Instrucoes_Normativas/Federal - IN 05.2017 - Terceirizados.md>)
 - [Nota Técnica TCE-PI 01/2025 — contratações temporárias e terceirizações](<01_Normativos_Vigentes/05_TCE_PI/Acordaos_Pareceres_Orientacoes/Nota Técnica TCE-PI 001.2025 - Contratacoes por Tempo Determinado e Terceirizacoes.md>)
 - [Ato PGJ 1.449/2024 — reserva de vagas para mulheres em vulnerabilidade](<01_Normativos_Vigentes/03_MPPI/Atos/Ato PGJ 1449.2024 - Reserva de Vagas para Mulheres em Situação de Vulnerabilidade (Terceirização).md>)
-- [TCE-MG — estudo temático sobre terceirização](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/Estudo Temático do TCE-MG (fev-2025)- Terceirização na Administração Pública - Um levantamento jurisprudencia.md>)
+- [TCE-MG — estudo temático sobre terceirização](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Estudo Tematico TCE-MG - Terceirizacao na Administracao Publica - Levantamento Jurisprudencial.md>)
 - [Decreto Estadual 14.483/2011 — terceirização](<01_Normativos_Vigentes/02_Estadual_PI/Decretos/Decreto Estadual - n14.483262011 - 2011.md>)
-- [Guia — reembolso-creche em contratos com DEMO](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/GUIAREEMBOLSOCRECHEAbril_26.md>)
+- [Guia — reembolso-creche em contratos com DEMO](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Guia Pratico - Reembolso-Creche nos Contratos com Dedicacao Exclusiva de Mao de Obra.md>)
 - [AGU — termo de contrato com DEMO (pregão/concorrência)](<03_Modelos_e_Minutas/Modelos_AGU_14133/Pregão e Concorrência/Serviços com Demo/modelo-de-termo-de-contrato-servico-com-mao-de-obra-exclusiva-lei-no-14-133-dez.md>)
 
 ### Imóveis
 
 - [IN SEGES 103/2022 — locação de imóveis](<01_Normativos_Vigentes/01_Federal/Instrucoes_Normativas/Federal - IN 103.2022 - Locação de Imóveis.md>)
-- [MPPI — POP locação de imóveis (POP-CLC-08)](<01_Normativos_Vigentes/04_CNMP/POP's Contratação Direta/POP - Inexigibilidade - Locacao de Imoveis (POP-CLC-08).md>)
-- [Parecer AGU 00880/2023/E-CJU/SCOM](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/PARECER n. 00880-2023-ADV-E-CJU-SCOM-CGU-AGU.md>)
+- [MPPI — POP locação de imóveis (POP-CLC-08)](<01_Normativos_Vigentes/03_MPPI/POP's Contratação Direta/POP - Inexigibilidade - Locacao de Imoveis (POP-CLC-08).md>)
+- [Parecer AGU 00880/2023/E-CJU/SCOM](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Parecer AGU 00880.2023-CJU-SCOM - Locacao de Imovel por Inexigibilidade de Licitacao.md>)
 - [PGE-PI — LV locação de imóvel](<SIte_PGE_PI/Locação de Imóvel - Abril 2024/Lei-14133-Lista-de-Verificacao-Locacao-Imovel.md>)
 - [PGE-PI — minuta-padrão de contrato de locação](<SIte_PGE_PI/Locação de Imóvel - Abril 2024/Minuta-Padrao-Contrato-de-Locacao-de-Imovel.md>)
 - [Lei Estadual 7.612/2021 — gestão de imóveis do Estado](<01_Normativos_Vigentes/02_Estadual_PI/Leis/Lei Estadual - n7.612272021 - 2021.md>)
@@ -821,8 +816,8 @@ Mais: [Temas transversais](#temas-transversais) · [Por tipo de objeto](#por-tip
 
 - [Compras públicas para inovação no Brasil](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Compras_publicas_para_inovacao_no_Brasil.md>)
 - [Jornada de compras públicas de inovação](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Jornada de Compras Publicas de Inovacao.md>)
-- [INOVAGOV SC — planejamento de contratações de inovação](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/INOVAGOV SC – Guia para Planejamento de Contratações de Inovação no Setor Público.md>)
-- [TCU — edital de licitação especial para solução inovadora](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/TCU - Edital 001.2024 - Licitação Especial para Contratação de Solução Inovadora.md>)
+- [INOVAGOV SC — planejamento de contratações de inovação](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Guia INOVAGOV-SC - Planejamento de Contratacoes de Inovacao no Setor Publico.md>)
+- [TCU — edital de licitação especial para solução inovadora](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Edital TCU 001.2024 - Licitacao Especial para Contratacao de Solucao Inovadora.md>)
 
 ### Publicidade, eventos e patrocínio
 
@@ -832,13 +827,13 @@ Mais: [Temas transversais](#temas-transversais) · [Por tipo de objeto](#por-tip
 - [Nota Técnica TCE-PI 02/2024 — despesas com festas, shows e artistas](<01_Normativos_Vigentes/05_TCE_PI/Acordaos_Pareceres_Orientacoes/Nota Técnica TCE-PI 002.2024 - Despesas com Festas Shows Artistas e Bandas.md>)
 - [Decreto Estadual 22.822/2024 — patrocínio](<01_Normativos_Vigentes/02_Estadual_PI/Decretos/Decreto Estadual 22822.2024 - Patrocínio dos Órgãos e Entidades do Executivo Estadual.md>)
 - [Decreto Estadual 16.266/2015 — publicidade/eventos](<01_Normativos_Vigentes/02_Estadual_PI/Decretos/Decreto Estadual - n16.266032015 - 2015.md>)
-- [Guia de boas práticas em contratações de publicidade](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/Guia_boas_praticas_contratacoes_publicas_publicidade_4749af44f2.md>)
+- [Guia de boas práticas em contratações de publicidade](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Guia de Boas Praticas - Contratacoes Publicas de Servicos de Publicidade.md>)
 
 ### Veículos e passagens
 
 - [Decreto Estadual 14.386/2011 — veículos](<01_Normativos_Vigentes/02_Estadual_PI/Decretos/Decreto Estadual - n14.386182011 - 2011.md>)
 - [Decreto Estadual 14.891/2012 — passagens/veículos](<01_Normativos_Vigentes/02_Estadual_PI/Decretos/Decreto Estadual - n14.891112012 - 2012.md>)
-- [Parecer AGU 00015/2024/CNLCA](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Manuais/PARECER Nº 00015-2024-CNLCA-CGU-AGU.md>)
+- [Parecer AGU 00015/2024/CNLCA](<05_Doutrina_e_Biblioteca/Biblioteca_Manuais_e_Cursos/Parecer AGU 00015.2024-CNLCA - Dispensa Manutencao de Veiculos Automotores Art 75 Par 7.md>)
 
 
 ## Apêndice A — Pontos de atenção na base
